@@ -1,0 +1,4258 @@
+{
+    "clearValue": {
+        "item1": 0,
+        "item2": 0,
+        "text": ""
+    },
+    "businesscodes": [
+        {
+            "value": "111100",
+            "text": "Oilseed & grain farming"
+        },
+        {
+            "value": "111210",
+            "text": "111210 Vegetable and melon farming"
+        },
+        {
+            "value": "111300",
+            "text": "111300 Fruit & tree nut farming"
+        },
+        {
+            "value": "111400",
+            "text": "111400 Greenhouse, nursery, & floriculture production"
+        },
+        {
+            "value": "111900",
+            "text": "111900 Other crop farming (tobacco, cotton, etc.)"
+        },
+        {
+            "value": "112111",
+            "text": "112111 Beef cattle ranching & farming"
+        },
+        {
+            "value": "112112",
+            "text": "112112 Cattle feedlots"
+        },
+        {
+            "value": "112120",
+            "text": "112120 Dairy cattle and milk production"
+        },
+        {
+            "value": "112210",
+            "text": "112210 Hog & pig farming"
+        },
+        {
+            "value": "112300",
+            "text": "112300 Poultry & egg production"
+        },
+        {
+            "value": "112400",
+            "text": "112400 Sheep & goat farming"
+        },
+        {
+            "value": "112510",
+            "text": "112510 Animal aquaculture"
+        },
+        {
+            "value": "112900",
+            "text": "112900 Other animal production"
+        },
+        {
+            "value": "113110",
+            "text": "113110 Timber tract operations"
+        },
+        {
+            "value": "113210",
+            "text": "113210 Forest nurseries & gathering of forest products"
+        },
+        {
+            "value": "113310",
+            "text": "113310 Logging"
+        },
+        {
+            "value": "114110",
+            "text": "114110 Fishing"
+        },
+        {
+            "value": "114210",
+            "text": "114210 Hunting & trapping"
+        },
+        {
+            "value": "115110",
+            "text": "115110 Support activities for crop production"
+        },
+        {
+            "value": "115210",
+            "text": "115210 Support activities for animal production"
+        },
+        {
+            "value": "115310",
+            "text": "115310 Support activities for forestry"
+        },
+        {
+            "value": "211110",
+            "text": "211110 Oil and gas extraction"
+        },
+        {
+            "value": "212110",
+            "text": "212110 Coal mining"
+        },
+        {
+            "value": "212200",
+            "text": "212200 Metal ore mining"
+        },
+        {
+            "value": "212310",
+            "text": "212310 Stone mining & quarrying"
+        },
+        {
+            "value": "212320",
+            "text": "212320 Sand, gravel, clay, etc., mining & quarrying"
+        },
+        {
+            "value": "212390",
+            "text": "212390 Other nonmetallic mineral mining & quarrying"
+        },
+        {
+            "value": "213110",
+            "text": "213110 Support activities for mining"
+        },
+        {
+            "value": "221100",
+            "text": "221100 Electric power generation, transmission, & distr."
+        },
+        {
+            "value": "221210",
+            "text": "221210 Natual gas distribution"
+        },
+        {
+            "value": "221300",
+            "text": "221300 Water, sewage, & other systems"
+        },
+        {
+            "value": "236110",
+            "text": "236110 Residential building construction"
+        },
+        {
+            "value": "236200",
+            "text": "236200 Nonresidential building construction"
+        },
+        {
+            "value": "237100",
+            "text": "237100 Utility system construction"
+        },
+        {
+            "value": "237210",
+            "text": "237210 Land subdivision"
+        },
+        {
+            "value": "237310",
+            "text": "237310 Highway, street, & bridge construction"
+        },
+        {
+            "value": "237990",
+            "text": "237990 Other heavy & civil engineering construction"
+        },
+        {
+            "value": "238100",
+            "text": "238100 Foundation, structure, & building exterior contractors"
+        },
+        {
+            "value": "238210",
+            "text": "238210 Electical contractors"
+        },
+        {
+            "value": "238220",
+            "text": "238220 Plumbing, heating, & air-conditioning contractors"
+        },
+        {
+            "value": "238290",
+            "text": "238290 Other building equipment contractors"
+        },
+        {
+            "value": "238300",
+            "text": "238300 Building finishing contractors"
+        },
+        {
+            "value": "238900",
+            "text": "238900 Other specialty trade contractors"
+        },
+        {
+            "value": "311110",
+            "text": "311110 Animal food mfg"
+        },
+        {
+            "value": "311200",
+            "text": "311200 Grain & oilseed milling"
+        },
+        {
+            "value": "311300",
+            "text": "311300 Sugar & confectionery product mfg"
+        },
+        {
+            "value": "311400",
+            "text": "311400 Fruit & veg. preserving & specialty mfg"
+        },
+        {
+            "value": "311500",
+            "text": "311500 Dairy product mfg"
+        },
+        {
+            "value": "311610",
+            "text": "311610 Animal slaughtering & processing"
+        },
+        {
+            "value": "311710",
+            "text": "311710 Seafood product prep. & packaging"
+        },
+        {
+            "value": "311800",
+            "text": "311800 Bakeries & tortilla mfg"
+        },
+        {
+            "value": "311900",
+            "text": "311900 Other food mfg (coffee, tea, etc.)"
+        },
+        {
+            "value": "312110",
+            "text": "312110 Soft drink & ice mfg"
+        },
+        {
+            "value": "312120",
+            "text": "312120 Breweries"
+        },
+        {
+            "value": "312130",
+            "text": "312130 Wineries"
+        },
+        {
+            "value": "312140",
+            "text": "312140 Distilleries"
+        },
+        {
+            "value": "312200",
+            "text": "312200 Tobacco mfg"
+        },
+        {
+            "value": "313000",
+            "text": "313000 Textile mills"
+        },
+        {
+            "value": "314000",
+            "text": "314000 Textile product mills"
+        },
+        {
+            "value": "315100",
+            "text": "315100 Apparel knitting mills"
+        },
+        {
+            "value": "315210",
+            "text": "315210 Cut & sew apparel contractors"
+        },
+        {
+            "value": "315220",
+            "text": "315220 Men's & boy's cut & sew apparel mfg"
+        },
+        {
+            "value": "315230",
+            "text": "315230 Women's & girl's cut & sew apparel mfg"
+        },
+        {
+            "value": "315290",
+            "text": "315290 Other cut & sew apparel mfg"
+        },
+        {
+            "value": "315990",
+            "text": "315990 Apparel accessories & other apparel mfg"
+        },
+        {
+            "value": "316110",
+            "text": "316110 Leather & hide tanning & finishing"
+        },
+        {
+            "value": "316210",
+            "text": "316210 Footwear mfg"
+        },
+        {
+            "value": "316990",
+            "text": "316990 Other leather & allied product mfg"
+        },
+        {
+            "value": "321110",
+            "text": "321110 Sawmills & wood preservation"
+        },
+        {
+            "value": "321210",
+            "text": "321210 Veneer, plywood, & eng. wood products"
+        },
+        {
+            "value": "321900",
+            "text": "321900 Other wood product mfg"
+        },
+        {
+            "value": "322100",
+            "text": "322100 Pulp, paper, paperboard mills"
+        },
+        {
+            "value": "322200",
+            "text": "322200 Converted paper product mfg"
+        },
+        {
+            "value": "323100",
+            "text": "323100 Printing & related support activities"
+        },
+        {
+            "value": "324110",
+            "text": "324110 Petroleum refineries"
+        },
+        {
+            "value": "324120",
+            "text": "324120 Asphalt paving, roofing, saturated materials"
+        },
+        {
+            "value": "324190",
+            "text": "324190 Other petroleum & coal products mfg"
+        },
+        {
+            "value": "325100",
+            "text": "325100 Basic chemical mfg"
+        },
+        {
+            "value": "325200",
+            "text": "325200 Resin, synthetic rubber, etc., mfg"
+        },
+        {
+            "value": "325300",
+            "text": "325300 Pesticide, fertilizer, other agric. chemicals mfg"
+        },
+        {
+            "value": "325410",
+            "text": "325410 Pharmaceuticals & medicine mfg"
+        },
+        {
+            "value": "325500",
+            "text": "325500 Paint, coating, adhesive mfg"
+        },
+        {
+            "value": "325600",
+            "text": "325600 Soap, cleaning compound, toilet prep. mfg"
+        },
+        {
+            "value": "325900",
+            "text": "325900 Other chemical product & prep. mfg"
+        },
+        {
+            "value": "326100",
+            "text": "326100 Plastics product mfg"
+        },
+        {
+            "value": "326200",
+            "text": "326200 Rubber product mfg"
+        },
+        {
+            "value": "327100",
+            "text": "327100 Clay product & refractory mfg"
+        },
+        {
+            "value": "327210",
+            "text": "327210 Glass & glass product mfg"
+        },
+        {
+            "value": "327300",
+            "text": "327300 Cement & concreate product mfg"
+        },
+        {
+            "value": "327400",
+            "text": "327400 Lime & gypsum product mfg"
+        },
+        {
+            "value": "327900",
+            "text": "327900 Other nonmetallic mineral product mfg"
+        },
+        {
+            "value": "331110",
+            "text": "331110 Iron & steel mills & ferroalloy mfg"
+        },
+        {
+            "value": "331200",
+            "text": "331200 Steel product mfg from purchased steel"
+        },
+        {
+            "value": "331310",
+            "text": "331310 Alumina & aluminum production & processing"
+        },
+        {
+            "value": "331400",
+            "text": "331400 Nonferrous metals (exept aluminum)"
+        },
+        {
+            "value": "331500",
+            "text": "331500 Foundries"
+        },
+        {
+            "value": "332110",
+            "text": "332110 Forging & stamping"
+        },
+        {
+            "value": "332210",
+            "text": "332210 Cutlery & handtool mfg"
+        },
+        {
+            "value": "332300",
+            "text": "332300 Architectural & structural metals mfg"
+        },
+        {
+            "value": "332400",
+            "text": "332400 Boiler, tank, shipping container mfg"
+        },
+        {
+            "value": "332510",
+            "text": "332510 Hardware mfg"
+        },
+        {
+            "value": "332610",
+            "text": "332610 Spring & wire product mfg"
+        },
+        {
+            "value": "332700",
+            "text": "332700 Machine shops, turned prod, screws, nuts, etc."
+        },
+        {
+            "value": "332810",
+            "text": "332810 Coating, engraving, heat treating, etc."
+        },
+        {
+            "value": "332900",
+            "text": "332900 Other fabricated metal product mfg"
+        },
+        {
+            "value": "333100",
+            "text": "333100 Agricult., constr, & mining machinery"
+        },
+        {
+            "value": "333200",
+            "text": "333200 Industrial machinery"
+        },
+        {
+            "value": "333310",
+            "text": "333310 Commercial & service industry machinery"
+        },
+        {
+            "value": "333410",
+            "text": "333410 Ventilation, heating, air-cond., etc. machinery"
+        },
+        {
+            "value": "333510",
+            "text": "333510 Metalworking machinery"
+        },
+        {
+            "value": "333610",
+            "text": "333610 Engine, turbine, power transm. equipment"
+        },
+        {
+            "value": "333900",
+            "text": "333900 Other general purpose machinery"
+        },
+        {
+            "value": "334110",
+            "text": "334110 Computer & peripheral equipment"
+        },
+        {
+            "value": "334200",
+            "text": "334200 Communications equipment"
+        },
+        {
+            "value": "334310",
+            "text": "334310 Audio & video equipment"
+        },
+        {
+            "value": "334410",
+            "text": "334410 Semiconductor & other electronic comp. equip."
+        },
+        {
+            "value": "334500",
+            "text": "334500 Naviagational, measuing, etc. instruments"
+        },
+        {
+            "value": "334610",
+            "text": "334610 Manufact. & reproducing magnetic & optical media"
+        },
+        {
+            "value": "335100",
+            "text": "335100 Electric lighting equipment mfg"
+        },
+        {
+            "value": "335200",
+            "text": "335200 Household appliance mfg"
+        },
+        {
+            "value": "335310",
+            "text": "335310 Electical equipment mfg"
+        },
+        {
+            "value": "335900",
+            "text": "335900 Other electical equip. & component mfg"
+        },
+        {
+            "value": "336100",
+            "text": "336100 Motor vehicle mfg"
+        },
+        {
+            "value": "336210",
+            "text": "336210 Motor vehicle body & trailer mfg"
+        },
+        {
+            "value": "336300",
+            "text": "336300 Motor vehicle parts mfg"
+        },
+        {
+            "value": "336410",
+            "text": "336410 Aerospace product & parts mfg"
+        },
+        {
+            "value": "336510",
+            "text": "336510 Railroad rolling stock mfg"
+        },
+        {
+            "value": "336610",
+            "text": "336610 Ship & boat building"
+        },
+        {
+            "value": "336990",
+            "text": "336990 Other transporation equimpment mfg"
+        },
+        {
+            "value": "337000",
+            "text": "337000 Furniture and related product mfg"
+        },
+        {
+            "value": "339110",
+            "text": "339110 Medical equipment & supplies mfg"
+        },
+        {
+            "value": "339900",
+            "text": "339900 Other miscellaneous manufacturing"
+        },
+        {
+            "value": "423100",
+            "text": "423100 Motor vehicle & parts & supplies"
+        },
+        {
+            "value": "423200",
+            "text": "423200 Furniture & home furnishing"
+        },
+        {
+            "value": "423300",
+            "text": "423300 Lumber & other construction materials"
+        },
+        {
+            "value": "423400",
+            "text": "423400 Professional & commercial equipment & supplies"
+        },
+        {
+            "value": "423500",
+            "text": "423500 Metal & mineral (except petroleum)"
+        },
+        {
+            "value": "423600",
+            "text": "423600 Electrical & electronic goods"
+        },
+        {
+            "value": "423700",
+            "text": "423700 Hardware, plumbing, & heating equipment"
+        },
+        {
+            "value": "423800",
+            "text": "423800 Machinery, equipment, & supplies"
+        },
+        {
+            "value": "423910",
+            "text": "423910 Sporting & recreational goods & supplies"
+        },
+        {
+            "value": "423920",
+            "text": "423920 Toy & hobby goods & supplies"
+        },
+        {
+            "value": "423930",
+            "text": "423930 Recyclable material"
+        },
+        {
+            "value": "423940",
+            "text": "423940 Jewelry, watch, precious stone & precious metal"
+        },
+        {
+            "value": "423990",
+            "text": "423990 Other miscellaneous durable goods"
+        },
+        {
+            "value": "424100",
+            "text": "424100 Paper & paper product"
+        },
+        {
+            "value": "424210",
+            "text": "424210 Drugs & druggists' sundries"
+        },
+        {
+            "value": "424300",
+            "text": "424300 Apparel, piece goods, & notions"
+        },
+        {
+            "value": "424400",
+            "text": "424400 Grocery & related product"
+        },
+        {
+            "value": "424500",
+            "text": "424500 Farm product raw material"
+        },
+        {
+            "value": "424600",
+            "text": "424600 Chemical & allied products"
+        },
+        {
+            "value": "424700",
+            "text": "424700 Petroleum & petroleum products"
+        },
+        {
+            "value": "424800",
+            "text": "424800 Beer, wine, & distilled alcoholic beverage"
+        },
+        {
+            "value": "424910",
+            "text": "424910 Farm supplies"
+        },
+        {
+            "value": "424920",
+            "text": "424920 Book, periodical, & newspaper"
+        },
+        {
+            "value": "424930",
+            "text": "424930 Flower, nursery stock, & florists' supplies"
+        },
+        {
+            "value": "424940",
+            "text": "424940 Tobacco & tobacco product"
+        },
+        {
+            "value": "424950",
+            "text": "424950 Paint, varnish, & supplies"
+        },
+        {
+            "value": "424990",
+            "text": "424990 Other miscellaneous nondurable goods"
+        },
+        {
+            "value": "425110",
+            "text": "425110 Business to business electronic markets"
+        },
+        {
+            "value": "425120",
+            "text": "425120 Wholesale trade agents & brokers"
+        },
+        {
+            "value": "441110",
+            "text": "441110 New car dealers"
+        },
+        {
+            "value": "441120",
+            "text": "441120 Used car dealers"
+        },
+        {
+            "value": "441210",
+            "text": "441210 Recreational vehicle dealers"
+        },
+        {
+            "value": "441221",
+            "text": "441221 Motorcycle dealers"
+        },
+        {
+            "value": "441222",
+            "text": "441222 Boat dealers"
+        },
+        {
+            "value": "441229",
+            "text": "441229 All other motor vehicle dealers"
+        },
+        {
+            "value": "441300",
+            "text": "441300 Automotive parts, accessories, & tire stores"
+        },
+        {
+            "value": "442110",
+            "text": "442110 Furniture stores"
+        },
+        {
+            "value": "442210",
+            "text": "442210 Floor covering stores"
+        },
+        {
+            "value": "442291",
+            "text": "442291 Window treatment stores"
+        },
+        {
+            "value": "442299",
+            "text": "442299 All other home furnishings stores"
+        },
+        {
+            "value": "443111",
+            "text": "443111 Household appliance stores"
+        },
+        {
+            "value": "443112",
+            "text": "443112 Radio, television, & other electronics stores"
+        },
+        {
+            "value": "443120",
+            "text": "443120 Computer & software stores"
+        },
+        {
+            "value": "443130",
+            "text": "443130 Camera & photographic supplies stores"
+        },
+        {
+            "value": "444110",
+            "text": "444110 Home centers"
+        },
+        {
+            "value": "444120",
+            "text": "444120 Paint & wallpaper stores"
+        },
+        {
+            "value": "444130",
+            "text": "444130 Hardware stores"
+        },
+        {
+            "value": "444190",
+            "text": "444190 Other building material dealers"
+        },
+        {
+            "value": "444200",
+            "text": "444200 Lawn & garden equipment & supplies stores"
+        },
+        {
+            "value": "445110",
+            "text": "445110 Supermarkets & other grocery (except convenience)"
+        },
+        {
+            "value": "445120",
+            "text": "445120 Convenience stores"
+        },
+        {
+            "value": "445210",
+            "text": "445210 Meat markets"
+        },
+        {
+            "value": "445220",
+            "text": "445220 Fish & seafood markets"
+        },
+        {
+            "value": "445230",
+            "text": "445230 Fruit & vegetable markets"
+        },
+        {
+            "value": "445291",
+            "text": "445291 Baked goods stores"
+        },
+        {
+            "value": "445292",
+            "text": "445292 Confectionery & nut stores"
+        },
+        {
+            "value": "445299",
+            "text": "445299 All other speciality food stores"
+        },
+        {
+            "value": "445310",
+            "text": "445310 Beer, wine, liquor stores"
+        },
+        {
+            "value": "446110",
+            "text": "446110 Pharmacies & drug stores"
+        },
+        {
+            "value": "446120",
+            "text": "446120 Cosmetics, beauty supplies, & perfume stores"
+        },
+        {
+            "value": "446130",
+            "text": "446130 Optical goods stores"
+        },
+        {
+            "value": "446190",
+            "text": "446190 Other health & personal care stores"
+        },
+        {
+            "value": "447100",
+            "text": "447100 Gasoline stations (incl convenience stores w/gas)"
+        },
+        {
+            "value": "448110",
+            "text": "448110 Men's clothing stores"
+        },
+        {
+            "value": "448120",
+            "text": "448120 Women's clothing stores"
+        },
+        {
+            "value": "448130",
+            "text": "448130 Children's & infant's clothing stores"
+        },
+        {
+            "value": "448140",
+            "text": "448140 Family clothing stores"
+        },
+        {
+            "value": "448150",
+            "text": "448150 Clothing accessories stores"
+        },
+        {
+            "value": "448190",
+            "text": "448190 Other clothing stores"
+        },
+        {
+            "value": "448210",
+            "text": "448210 Shoe stores"
+        },
+        {
+            "value": "448310",
+            "text": "448310 Jewelry stores"
+        },
+        {
+            "value": "448320",
+            "text": "448320 Luggage & leather goods stores"
+        },
+        {
+            "value": "451110",
+            "text": "451110 Sporting goods stores"
+        },
+        {
+            "value": "451120",
+            "text": "451120 Hobby, toy, & game stores"
+        },
+        {
+            "value": "451130",
+            "text": "451130 Sewing, needlework, & piece goods stores"
+        },
+        {
+            "value": "451140",
+            "text": "451140 Musical instrument & supplies stores"
+        },
+        {
+            "value": "451211",
+            "text": "451211 Book stores"
+        },
+        {
+            "value": "451212",
+            "text": "451212 News dealers & newsstands"
+        },
+        {
+            "value": "451220",
+            "text": "451220 Prerecorded tape, compact disc, & record stores"
+        },
+        {
+            "value": "452110",
+            "text": "452110 Department stores"
+        },
+        {
+            "value": "452900",
+            "text": "452900 Other general merchandise stores"
+        },
+        {
+            "value": "453110",
+            "text": "453110 Florists"
+        },
+        {
+            "value": "453210",
+            "text": "453210 Office supplies & stationery stores"
+        },
+        {
+            "value": "453220",
+            "text": "453220 Gift, novelty, & souvenir stores"
+        },
+        {
+            "value": "453310",
+            "text": "453310 Used merchandise stores"
+        },
+        {
+            "value": "453910",
+            "text": "453910 Pet & pet supplies stores"
+        },
+        {
+            "value": "453920",
+            "text": "453920 Art dealers"
+        },
+        {
+            "value": "453930",
+            "text": "453930 Manufactured (mobile) home dealers"
+        },
+        {
+            "value": "453990",
+            "text": "453990 All other miscellaneous store retailers"
+        },
+        {
+            "value": "454110",
+            "text": "454110 Electronic shopping & mail-order houses"
+        },
+        {
+            "value": "454210",
+            "text": "454210 Vending machine operators"
+        },
+        {
+            "value": "454311",
+            "text": "454311 Heating oil dealers"
+        },
+        {
+            "value": "454312",
+            "text": "454312 Liquefied petroleum gas (bottled gas) dealers"
+        },
+        {
+            "value": "454319",
+            "text": "454319 Other fuel dealers"
+        },
+        {
+            "value": "454390",
+            "text": "454390 Other direct selling establishments"
+        },
+        {
+            "value": "481000",
+            "text": "481000 Air transportation"
+        },
+        {
+            "value": "482110",
+            "text": "482110 Rail transportation"
+        },
+        {
+            "value": "483000",
+            "text": "483000 Water transportation"
+        },
+        {
+            "value": "484110",
+            "text": "484110 General freight trucking, local"
+        },
+        {
+            "value": "484120",
+            "text": "484120 General freight trucking, long-distance"
+        },
+        {
+            "value": "484200",
+            "text": "484200 Specialized freight trucking"
+        },
+        {
+            "value": "485110",
+            "text": "485110 Urban transit systems"
+        },
+        {
+            "value": "485210",
+            "text": "485210 Interurban & rural bus transportation"
+        },
+        {
+            "value": "485310",
+            "text": "485310 Taxi service"
+        },
+        {
+            "value": "485320",
+            "text": "485320 Limousine service"
+        },
+        {
+            "value": "485410",
+            "text": "485410 School & employee bus transportation"
+        },
+        {
+            "value": "485510",
+            "text": "485510 Charter bus industry"
+        },
+        {
+            "value": "485990",
+            "text": "485990 Other transit & ground passenger transportation"
+        },
+        {
+            "value": "486000",
+            "text": "486000 Pipeline transportation"
+        },
+        {
+            "value": "487000",
+            "text": "487000 Scenic & sightseeing transportation"
+        },
+        {
+            "value": "488100",
+            "text": "488100 Support activities for air transportation"
+        },
+        {
+            "value": "488210",
+            "text": "488210 Support activities for rail transportation"
+        },
+        {
+            "value": "488300",
+            "text": "488300 Support activities for water transportation"
+        },
+        {
+            "value": "488410",
+            "text": "488410 Motor vehicle towing"
+        },
+        {
+            "value": "488490",
+            "text": "488490 Other support activities for road transportation"
+        },
+        {
+            "value": "488510",
+            "text": "488510 Freight transportation arrangement"
+        },
+        {
+            "value": "488990",
+            "text": "488990 Other support activities for transportation"
+        },
+        {
+            "value": "492110",
+            "text": "492110 Couriers"
+        },
+        {
+            "value": "492210",
+            "text": "492210 Local messengers & local delivery"
+        },
+        {
+            "value": "493100",
+            "text": "493100 Warehousing & storage (except self storage,etc.)"
+        },
+        {
+            "value": "511110",
+            "text": "511110 Newspaper publishers"
+        },
+        {
+            "value": "511120",
+            "text": "511120 Periodical publishers"
+        },
+        {
+            "value": "511130",
+            "text": "511130 Book publishers"
+        },
+        {
+            "value": "511140",
+            "text": "511140 Database & directory publishers"
+        },
+        {
+            "value": "511190",
+            "text": "511190 Other publishers"
+        },
+        {
+            "value": "511210",
+            "text": "511210 Software publishers"
+        },
+        {
+            "value": "512100",
+            "text": "512100 Motion picture & video industries (except rental)"
+        },
+        {
+            "value": "512200",
+            "text": "512200 Sound recording industries"
+        },
+        {
+            "value": "515100",
+            "text": "515100 Radio & television broadcasting"
+        },
+        {
+            "value": "515210",
+            "text": "515210 Cable & other subscription programming"
+        },
+        {
+            "value": "516110",
+            "text": "516110 Internet publishing & broadcasting"
+        },
+        {
+            "value": "517000",
+            "text": "517000 Telecommunications"
+        },
+        {
+            "value": "518111",
+            "text": "518111 Internet service providers"
+        },
+        {
+            "value": "518112",
+            "text": "518112 Web search portals"
+        },
+        {
+            "value": "518210",
+            "text": "518210 Data processing, hosting, & related services"
+        },
+        {
+            "value": "519100",
+            "text": "519100 Information (news syndicates, on-line services)"
+        },
+        {
+            "value": "522110",
+            "text": "522110 Commercial banking"
+        },
+        {
+            "value": "522120",
+            "text": "522120 Savings institutions"
+        },
+        {
+            "value": "522130",
+            "text": "522130 Credit unions"
+        },
+        {
+            "value": "522190",
+            "text": "522190 Other depository credit intermediation"
+        },
+        {
+            "value": "522210",
+            "text": "522210 Credit card issuing"
+        },
+        {
+            "value": "522220",
+            "text": "522220 Sales financing"
+        },
+        {
+            "value": "522291",
+            "text": "522291 Consumer lending"
+        },
+        {
+            "value": "522292",
+            "text": "522292 Real estate credit (including mortgage bankers)"
+        },
+        {
+            "value": "522293",
+            "text": "522293 International trade financing"
+        },
+        {
+            "value": "522294",
+            "text": "522294 Secondary market financing"
+        },
+        {
+            "value": "522298",
+            "text": "522298 All other nondepository credit intermediation"
+        },
+        {
+            "value": "522300",
+            "text": "522300 Activities related to credit intermediation"
+        },
+        {
+            "value": "523110",
+            "text": "523110 Investment banking & securities dealing"
+        },
+        {
+            "value": "523120",
+            "text": "523120 Securities brokerage"
+        },
+        {
+            "value": "523130",
+            "text": "523130 Commodity contracts dealing"
+        },
+        {
+            "value": "523140",
+            "text": "523140 Commodity contracts brokerage"
+        },
+        {
+            "value": "523210",
+            "text": "523210 Securities & commodity exchanges"
+        },
+        {
+            "value": "523900",
+            "text": "523900 Other financial investment activities"
+        },
+        {
+            "value": "524140",
+            "text": "524140 Direct life, health, & medical & reinsurance"
+        },
+        {
+            "value": "524150",
+            "text": "524150 Direct, & reinsurance (not life/health/medical)"
+        },
+        {
+            "value": "524210",
+            "text": "524210 Insurance agencies & brokerages"
+        },
+        {
+            "value": "524290",
+            "text": "524290 Other insurance related activities"
+        },
+        {
+            "value": "525100",
+            "text": "525100 Insurance & employee benefit funds"
+        },
+        {
+            "value": "525910",
+            "text": "525910 Open-end investment funds (Form 1120-RIC)"
+        },
+        {
+            "value": "525920",
+            "text": "525920 Trusts, estates, & agency accounts"
+        },
+        {
+            "value": "525930",
+            "text": "525930 Real estate investment trusts (Form 1120-REIT)"
+        },
+        {
+            "value": "525990",
+            "text": "525990 Other financial vehicles"
+        },
+        {
+            "value": "531110",
+            "text": "531110 Lessors of residential buildings & dwellings"
+        },
+        {
+            "value": "531120",
+            "text": "531120 Lessors of nonresidential buildings"
+        },
+        {
+            "value": "531130",
+            "text": "531130 Lessors of miniwarehouses & self-storage units"
+        },
+        {
+            "value": "531190",
+            "text": "531190 Lessors of other real estate property"
+        },
+        {
+            "value": "531210",
+            "text": "531210 Offices of real estate agents & brokers"
+        },
+        {
+            "value": "531310",
+            "text": "531310 Real estate property managers"
+        },
+        {
+            "value": "531320",
+            "text": "531320 Offices of real estate appraisers"
+        },
+        {
+            "value": "531390",
+            "text": "531390 Other activities related to real estate"
+        },
+        {
+            "value": "532100",
+            "text": "532100 Automotive equipment rental & leasing"
+        },
+        {
+            "value": "532210",
+            "text": "532210 Consumer electronics & appliances rental"
+        },
+        {
+            "value": "532220",
+            "text": "532220 Formal wear & costume rental"
+        },
+        {
+            "value": "532230",
+            "text": "532230 Video tape & disc rental"
+        },
+        {
+            "value": "532290",
+            "text": "532290 Other consumer goods rental"
+        },
+        {
+            "value": "532310",
+            "text": "532310 General rental centers"
+        },
+        {
+            "value": "532400",
+            "text": "532400 Commercial/industrial machinery/equip rental/lease"
+        },
+        {
+            "value": "533110",
+            "text": "533110 Lessors of nonfinancial intangible assets"
+        },
+        {
+            "value": "541110",
+            "text": "541110 Offices of lawyers"
+        },
+        {
+            "value": "541190",
+            "text": "541190 Other legal services"
+        },
+        {
+            "value": "541211",
+            "text": "541211 Offices of certified public accountants"
+        },
+        {
+            "value": "541213",
+            "text": "541213 Tax preparation services"
+        },
+        {
+            "value": "541214",
+            "text": "541214 Payroll services"
+        },
+        {
+            "value": "541219",
+            "text": "541219 Other accounting services"
+        },
+        {
+            "value": "541310",
+            "text": "541310 Architectural services"
+        },
+        {
+            "value": "541320",
+            "text": "541320 Landscape architecture services"
+        },
+        {
+            "value": "541330",
+            "text": "541330 Engineering services"
+        },
+        {
+            "value": "541340",
+            "text": "541340 Drafting services"
+        },
+        {
+            "value": "541350",
+            "text": "541350 Building inspection services"
+        },
+        {
+            "value": "541360",
+            "text": "541360 Geophysical surveying & mapping services"
+        },
+        {
+            "value": "541370",
+            "text": "541370 Surveying & mapping (except geophysical) services"
+        },
+        {
+            "value": "541380",
+            "text": "541380 Testing laboratories"
+        },
+        {
+            "value": "541400",
+            "text": "541400 Specialized design services (interior/fashion)"
+        },
+        {
+            "value": "541511",
+            "text": "541511 Custom computer programming services"
+        },
+        {
+            "value": "541512",
+            "text": "541512 Computer systems design services"
+        },
+        {
+            "value": "541513",
+            "text": "541513 Computer facilities management services"
+        },
+        {
+            "value": "541519",
+            "text": "541519 Other computer related services"
+        },
+        {
+            "value": "541600",
+            "text": "541600 Management, scientific, & technical consulting"
+        },
+        {
+            "value": "541700",
+            "text": "541700 Scientific research & development services"
+        },
+        {
+            "value": "541800",
+            "text": "541800 Advertising & related services"
+        },
+        {
+            "value": "541910",
+            "text": "541910 Marketing research & public opinion polling"
+        },
+        {
+            "value": "541920",
+            "text": "541920 Photographic services"
+        },
+        {
+            "value": "541930",
+            "text": "541930 Translation & interpretation services"
+        },
+        {
+            "value": "541940",
+            "text": "541940 Veterinary services"
+        },
+        {
+            "value": "541990",
+            "text": "541990 All other professional, scientific, & technical"
+        },
+        {
+            "value": "551111",
+            "text": "551111 Offices of bank holding companies"
+        },
+        {
+            "value": "551112",
+            "text": "551112 Offices of other holding companies"
+        },
+        {
+            "value": "561110",
+            "text": "561110 Office administrative services"
+        },
+        {
+            "value": "561210",
+            "text": "561210 Facilities support services"
+        },
+        {
+            "value": "561300",
+            "text": "561300 Employment services"
+        },
+        {
+            "value": "561410",
+            "text": "561410 Document preparation services"
+        },
+        {
+            "value": "561420",
+            "text": "561420 Telephone call centers"
+        },
+        {
+            "value": "561430",
+            "text": "561430 Business service centers"
+        },
+        {
+            "value": "561440",
+            "text": "561440 Collection agencies"
+        },
+        {
+            "value": "561450",
+            "text": "561450 Credit bureaus"
+        },
+        {
+            "value": "561490",
+            "text": "561490 Other business support services"
+        },
+        {
+            "value": "561500",
+            "text": "561500 Travel arrangement & reservation services"
+        },
+        {
+            "value": "561600",
+            "text": "561600 Investigation & security services"
+        },
+        {
+            "value": "561710",
+            "text": "561710 Exterminating & pest control services"
+        },
+        {
+            "value": "561720",
+            "text": "561720 Janitorial services"
+        },
+        {
+            "value": "561730",
+            "text": "561730 Landscaping services"
+        },
+        {
+            "value": "561740",
+            "text": "561740 Carpet & upholstery cleaning"
+        },
+        {
+            "value": "561790",
+            "text": "561790 Other services to buildings & dwellings"
+        },
+        {
+            "value": "561900",
+            "text": "561900 Other support services"
+        },
+        {
+            "value": "562000",
+            "text": "562000 Waste management & remediation services"
+        },
+        {
+            "value": "611000",
+            "text": "611000 Educational services (schools, colleges, & univ.)"
+        },
+        {
+            "value": "621111",
+            "text": "621111 Physicians (except mental health specialists)"
+        },
+        {
+            "value": "621112",
+            "text": "621112 Physicians, mental health specialists"
+        },
+        {
+            "value": "621210",
+            "text": "621210 Dentists"
+        },
+        {
+            "value": "621310",
+            "text": "621310 Chiropractors"
+        },
+        {
+            "value": "621320",
+            "text": "621320 Optometrists"
+        },
+        {
+            "value": "621330",
+            "text": "621330 Mental health practitioners (except physicians)"
+        },
+        {
+            "value": "621340",
+            "text": "621340 Physical, occupational & speech & audiologists"
+        },
+        {
+            "value": "621391",
+            "text": "621391 Podiatrists"
+        },
+        {
+            "value": "621399",
+            "text": "621399 All other miscellaneous health practitioners"
+        },
+        {
+            "value": "621410",
+            "text": "621410 Family planning"
+        },
+        {
+            "value": "621420",
+            "text": "621420 Outpatient mental health & substance abuse"
+        },
+        {
+            "value": "621491",
+            "text": "621491 HMO medical"
+        },
+        {
+            "value": "621492",
+            "text": "621492 Kidney dialysis"
+        },
+        {
+            "value": "621493",
+            "text": "621493 Freestanding ambulatory surgical & emergency"
+        },
+        {
+            "value": "621498",
+            "text": "621498 All other outpatient care"
+        },
+        {
+            "value": "621510",
+            "text": "621510 Medical & diagnostic laboratories"
+        },
+        {
+            "value": "621610",
+            "text": "621610 Home health care services"
+        },
+        {
+            "value": "621900",
+            "text": "621900 Other ambulatory health care services"
+        },
+        {
+            "value": "622000",
+            "text": "622000 Hospitals"
+        },
+        {
+            "value": "623000",
+            "text": "623000 Nursing & residential care facilities"
+        },
+        {
+            "value": "624100",
+            "text": "624100 Individual & family services"
+        },
+        {
+            "value": "624200",
+            "text": "624200 Community food & housing & emergency & other"
+        },
+        {
+            "value": "624310",
+            "text": "624310 Vocational rehabilitation services"
+        },
+        {
+            "value": "624410",
+            "text": "624410 Child day care services"
+        },
+        {
+            "value": "711100",
+            "text": "711100 Performing arts companies"
+        },
+        {
+            "value": "711210",
+            "text": "711210 Spectator sports (sports clubs & racetracks)"
+        },
+        {
+            "value": "711300",
+            "text": "711300 Promoters of performing arts/sports/related events"
+        },
+        {
+            "value": "711410",
+            "text": "711410 Agents & managers for artists/athletes/entertainer"
+        },
+        {
+            "value": "711510",
+            "text": "711510 Independent artists, writers, & performers"
+        },
+        {
+            "value": "712100",
+            "text": "712100 Museums, historical sites, & similar institutions"
+        },
+        {
+            "value": "713100",
+            "text": "713100 Amusement parks & arcades"
+        },
+        {
+            "value": "713200",
+            "text": "713200 Gambling industries"
+        },
+        {
+            "value": "713900",
+            "text": "713900 Other amusement (golf courses/skiing/marinas etc.)"
+        },
+        {
+            "value": "721110",
+            "text": "721110 Hotels (except casino hotels) & motels"
+        },
+        {
+            "value": "721120",
+            "text": "721120 Casino hotels"
+        },
+        {
+            "value": "721191",
+            "text": "721191 Bed & breakfast inns"
+        },
+        {
+            "value": "721199",
+            "text": "721199 All other travel accomodation"
+        },
+        {
+            "value": "721210",
+            "text": "721210 RV (recreational vehicle) parks & RV camps"
+        },
+        {
+            "value": "721310",
+            "text": "721310 Rooming & boarding houses"
+        },
+        {
+            "value": "722110",
+            "text": "722110 Full-service restaurants"
+        },
+        {
+            "value": "722210",
+            "text": "722210 Limited-service eating places"
+        },
+        {
+            "value": "722300",
+            "text": "722300 Special food services (contractors & caterers)"
+        },
+        {
+            "value": "722410",
+            "text": "722410 Drinking places (alcoholic beverages)"
+        },
+        {
+            "value": "811110",
+            "text": "811110 Automotive mechanical & electrical"
+        },
+        {
+            "value": "811120",
+            "text": "811120 Automotive, body, paint, interior, & glass"
+        },
+        {
+            "value": "811190",
+            "text": "811190 Other (incl. oil change/lube shops & car washes)"
+        },
+        {
+            "value": "811210",
+            "text": "811210 Electronic & precision equipment"
+        },
+        {
+            "value": "811310",
+            "text": "811310 Commercial & industrial machinery & equipment"
+        },
+        {
+            "value": "811410",
+            "text": "811410 Home & garden equipment & applicance"
+        },
+        {
+            "value": "811420",
+            "text": "811420 Reupholstery & furniture"
+        },
+        {
+            "value": "811430",
+            "text": "811430 Footwear & leather goods"
+        },
+        {
+            "value": "811490",
+            "text": "811490 Other personal & household goods"
+        },
+        {
+            "value": "812111",
+            "text": "812111 Barber shops"
+        },
+        {
+            "value": "812112",
+            "text": "812112 Beauty salons"
+        },
+        {
+            "value": "812113",
+            "text": "812113 Nail salons"
+        },
+        {
+            "value": "812190",
+            "text": "812190 Other personal care services (diet/weight centers)"
+        },
+        {
+            "value": "812210",
+            "text": "812210 Funeral homes & funeral services"
+        },
+        {
+            "value": "812220",
+            "text": "812220 Cemetaries & crematories"
+        },
+        {
+            "value": "812310",
+            "text": "812310 Coin-operated laundries & drycleaners"
+        },
+        {
+            "value": "812320",
+            "text": "812320 Drycleaning & laundry services (except coin-op.)"
+        },
+        {
+            "value": "812330",
+            "text": "812330 Linen & uniform supply"
+        },
+        {
+            "value": "812910",
+            "text": "812910 Pet care (except veterinary) services"
+        },
+        {
+            "value": "812920",
+            "text": "812920 Photofinishing"
+        },
+        {
+            "value": "812930",
+            "text": "812930 Parking lots & garages"
+        },
+        {
+            "value": "812990",
+            "text": "812990 All other personal services"
+        },
+        {
+            "value": "813000",
+            "text": "813000 Religious/grantmaking/civic/professional orgs."
+        }
+    ],
+    "states": [
+        {
+            "value": "AL",
+            "text": "AL - ALABAMA"
+        },
+        {
+            "value": "AK",
+            "text": "AK - ALASKA"
+        },
+        {
+            "value": "AS",
+            "text": "AS - AMERICAN SAMOA"
+        },
+        {
+            "value": "AZ",
+            "text": "AZ - ARIZONA"
+        },
+        {
+            "value": "AR",
+            "text": "AR - ARKANSAS"
+        },
+        {
+            "value": "CA",
+            "text": "CA - CALIFORNIA"
+        },
+        {
+            "value": "CO",
+            "text": "CO - COLORADO"
+        },
+        {
+            "value": "CT",
+            "text": "CT - CONNECTICUT"
+        },
+        {
+            "value": "DE",
+            "text": "DE - DELAWARE"
+        },
+        {
+            "value": "DC",
+            "text": "DC - DISTRICT OF COLUMBIA"
+        },
+        {
+            "value": "FM",
+            "text": "FM - FEDERATED STATES OF MICRONESIA"
+        },
+        {
+            "value": "FL",
+            "text": "FL - FLORIDA"
+        },
+        {
+            "value": "GA",
+            "text": "GA - GEORGIA"
+        },
+        {
+            "value": "GU",
+            "text": "GU - GUAM GU"
+        },
+        {
+            "value": "HI",
+            "text": "HI - HAWAII"
+        },
+        {
+            "value": "value",
+            "text": "ID - IDAHO"
+        },
+        {
+            "value": "IL",
+            "text": "IL - ILLINOIS"
+        },
+        {
+            "value": "IN",
+            "text": "IN - INDIANA"
+        },
+        {
+            "value": "IA",
+            "text": "IA - IOWA"
+        },
+        {
+            "value": "KS",
+            "text": "KS - KANSAS"
+        },
+        {
+            "value": "KY",
+            "text": "KY - KENTUCKY"
+        },
+        {
+            "value": "LA",
+            "text": "LA - LOUISIANA"
+        },
+        {
+            "value": "ME",
+            "text": "ME - MAINE"
+        },
+        {
+            "value": "MH",
+            "text": "MH - MARSHALL ISLANDS"
+        },
+        {
+            "value": "MD",
+            "text": "MD - MARYLAND"
+        },
+        {
+            "value": "MA",
+            "text": "MA - MASSACHUSETTS"
+        },
+        {
+            "value": "MI",
+            "text": "MI - MICHIGAN"
+        },
+        {
+            "value": "MN",
+            "text": "MN - MINNESOTA"
+        },
+        {
+            "value": "MS",
+            "text": "MS - MISSISSIPPI"
+        },
+        {
+            "value": "MO",
+            "text": "MO - MISSOURI"
+        },
+        {
+            "value": "MT",
+            "text": "MT - MONTANA"
+        },
+        {
+            "value": "NE",
+            "text": "NE - NEBRASKA"
+        },
+        {
+            "value": "NV",
+            "text": "NV - NEVADA"
+        },
+        {
+            "value": "NH",
+            "text": "NH - NEW HAMPSHIRE"
+        },
+        {
+            "value": "NJ",
+            "text": "NJ - NEW JERSEY"
+        },
+        {
+            "value": "NM",
+            "text": "NM - NEW MEXICO"
+        },
+        {
+            "value": "NY",
+            "text": "NY - NEW YORK"
+        },
+        {
+            "value": "NC",
+            "text": "NC - NORTH CAROLINA"
+        },
+        {
+            "value": "ND",
+            "text": "ND - NORTH DAKOTA"
+        },
+        {
+            "value": "MP",
+            "text": "MP - NORTHERN MARIANA ISLANDS"
+        },
+        {
+            "value": "OH",
+            "text": "OH - OHIO"
+        },
+        {
+            "value": "OK",
+            "text": "OK - OKLAHOMA"
+        },
+        {
+            "value": "OR",
+            "text": "OR - OREGON"
+        },
+        {
+            "value": "PW",
+            "text": "PW - PALAU"
+        },
+        {
+            "value": "PA",
+            "text": "PA - PENNSYLVANIA"
+        },
+        {
+            "value": "PR",
+            "text": "PR - PUERTO RICO"
+        },
+        {
+            "value": "RI",
+            "text": "RI - RHODE ISLAND"
+        },
+        {
+            "value": "SC",
+            "text": "SC - SOUTH CAROLINA"
+        },
+        {
+            "value": "SD",
+            "text": "SD - SOUTH DAKOTA"
+        },
+        {
+            "value": "TN",
+            "text": "TN - TENNESSEE"
+        },
+        {
+            "value": "TX",
+            "text": "TX - TEXAS"
+        },
+        {
+            "value": "UT",
+            "text": "UT - UTAH"
+        },
+        {
+            "value": "VT",
+            "text": "VT - VERMONT"
+        },
+        {
+            "value": "VI",
+            "text": "VI - VIRGIN ISLANDS"
+        },
+        {
+            "value": "VA",
+            "text": "VA - VIRGINIA"
+        },
+        {
+            "value": "WA",
+            "text": "WA - WASHINGTON"
+        },
+        {
+            "value": "WV",
+            "text": "WV - WEST VIRGINIA"
+        },
+        {
+            "value": "WI",
+            "text": "WI - WISCONSIN"
+        },
+        {
+            "value": "WY",
+            "text": "WY - WYOMING"
+        },
+        {
+            "value": "AE",
+            "text": "AE - Armed Forces Africa"
+        },
+        {
+            "value": "AA",
+            "text": "AA - Armed Forces Americas"
+        },
+        {
+            "value": "AE",
+            "text": "AE - Armed Forces Canada"
+        },
+        {
+            "value": "AE",
+            "text": "AE - Armed Forces Europe"
+        },
+        {
+            "value": "AE",
+            "text": "AE - Armed Forces Middle East"
+        },
+        {
+            "value": "AP",
+            "text": "AP - Armed Forces Pacific"
+        }
+    ],
+    "compensations": [
+        {
+            "value": "65",
+            "text": "Account Maintenance Fees (65)"
+        },
+        {
+            "value": "70",
+            "text": "Consulting Fees (70)"
+        },
+        {
+            "value": "50",
+            "text": "Direction payment from the plan (50)"
+        },
+        {
+            "value": "63",
+            "text": "Distribution (12b-1) Fees (63)"
+        },
+        {
+            "value": "61",
+            "text": "Finder's Fees/Placement Fees (61)"
+        },
+        {
+            "value": "62",
+            "text": "Float Revenue (62)"
+        },
+        {
+            "value": "53",
+            "text": "Insurance brokerage commissions and fees (53)"
+        },
+        {
+            "value": "66",
+            "text": "Insurance mortality and expense charge (66)"
+        },
+        {
+            "value": "51",
+            "text": "Investment management fees paid directly by plan (51)"
+        },
+        {
+            "value": "52",
+            "text": "Investment management fees paid indirectly by plan (52)"
+        },
+        {
+            "value": "56",
+            "text": "Non-Monetary Compensation (56)"
+        },
+        {
+            "value": "55",
+            "text": "Other Commissions (55)"
+        },
+        {
+            "value": "99",
+            "text": "Other fees (99)"
+        },
+        {
+            "value": "73",
+            "text": "Other insurance fees and expenses (73)"
+        },
+        {
+            "value": "67",
+            "text": "Other insurance wrap fees (67)"
+        },
+        {
+            "value": "72",
+            "text": "Other investment fees and expenses (72)"
+        },
+        {
+            "value": "58",
+            "text": "Product terminationfees(surrender charges, Etc.) (58)"
+        },
+        {
+            "value": "64",
+            "text": "Recordkeeping fees (64)"
+        },
+        {
+            "value": "57",
+            "text": "Redemption fees (57)"
+        },
+        {
+            "value": "54",
+            "text": "Sales Loads (54)"
+        },
+        {
+            "value": "71",
+            "text": "Securities brokerage commissions and fees (71)"
+        },
+        {
+            "value": "59",
+            "text": "Shareholder servicing fees (59)"
+        },
+        {
+            "value": "68",
+            "text": "Soft dollars commissions and fees (68)"
+        },
+        {
+            "value": "60",
+            "text": "Sub-transfer agency fees (60)"
+        }
+    ],
+    "averageaccountbalance": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "averageaccountbalance"
+        },
+        {
+            "item1": 1,
+            "item2": 20000,
+            "text": "0 - 20k"
+        },
+        {
+            "item1": 20001,
+            "item2": 40000,
+            "text": "20k - 40k"
+        },
+        {
+            "item1": 40001,
+            "item2": 60000,
+            "text": "40k - 60k"
+        },
+        {
+            "item1": 60001,
+            "item2": 80000,
+            "text": "60k - 80k"
+        },
+        {
+            "item1": 80001,
+            "item2": 100000,
+            "text": "80k - 100k"
+        },
+        {
+            "item1": 100001,
+            "item2": 999999999999999,
+            "text": "> 100k"
+        }
+    ],
+    "averageparticipantaccountbalance": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "averageparticipantaccountbalance"
+        },
+        {
+            "item1": 1,
+            "item2": 20000,
+            "text": "0 - 20k"
+        },
+        {
+            "item1": 20001,
+            "item2": 40000,
+            "text": "20k - 40k"
+        },
+        {
+            "item1": 40001,
+            "item2": 60000,
+            "text": "40k - 60k"
+        },
+        {
+            "item1": 60001,
+            "item2": 80000,
+            "text": "60k - 80k"
+        },
+        {
+            "item1": 80001,
+            "item2": 100000,
+            "text": "80k - 100k"
+        },
+        {
+            "item1": 100001,
+            "item2": 999999999999999,
+            "text": "> 100k"
+        }
+    ],
+    "assetgrowth": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "assetsgrowth"
+        },
+        {
+            "item1": 1.0000000001,
+            "item2": 99999,
+            "text": "> 100%"
+        },
+        {
+            "item1": 0.5000000001,
+            "item2": 1,
+            "text": "50 - 100%"
+        },
+        {
+            "item1": 0.2000000001,
+            "item2": 0.5,
+            "text": "20 - 50%"
+        },
+        {
+            "item1": 0,
+            "item2": 0.2,
+            "text": "0 - 20%"
+        },
+        {
+            "item1": 99999,
+            "item2": 99999,
+            "text": "0"
+        },
+        {
+            "item1": 0,
+            "item2": -0.2,
+            "text": "0 - (20%)"
+        },
+        {
+            "item1": -0.2000000001,
+            "item2": -0.5,
+            "text": "(20) - (50%)"
+        },
+        {
+            "item1": -0.5000000001,
+            "item2": -1,
+            "text": "(50) - (100%)"
+        },
+        {
+            "item1": -1,
+            "item2": -99999999,
+            "text": "< (100%)"
+        }
+    ],
+    "returnoninvestment": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "returninvestment"
+        },
+        {
+            "item1": 0.00000000001,
+            "item2": 0.03,
+            "text": "0% - 3%"
+        },
+        {
+            "item1": 0.03000000001,
+            "item2": 0.06,
+            "text": "3% - 6%"
+        },
+        {
+            "item1": 0.06000000001,
+            "item2": 0.09,
+            "text": "6% - 9%"
+        },
+        {
+            "item1": 0.09000000001,
+            "item2": 0.12000000001,
+            "text": "9% - 12%"
+        },
+        {
+            "item1": 0.12000000001,
+            "item2": 99999,
+            "text": "Over 12%"
+        }
+    ],
+    "totalparticipants": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "participant"
+        },
+        {
+            "item1": 1,
+            "item2": 24,
+            "text": "< 25"
+        },
+        {
+            "item1": 25,
+            "item2": 50,
+            "text": "25 - 50"
+        },
+        {
+            "item1": 51,
+            "item2": 75,
+            "text": "50 - 75"
+        },
+        {
+            "item1": 76,
+            "item2": 100,
+            "text": "75 - 100"
+        },
+        {
+            "item1": 101,
+            "item2": 200,
+            "text": "100 - 200"
+        },
+        {
+            "item1": 201,
+            "item2": 999999999,
+            "text": "> 200"
+        }
+    ],
+    "activeparticipants": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "activeparticipant"
+        },
+        {
+            "item1": 1,
+            "item2": 24,
+            "text": "< 25"
+        },
+        {
+            "item1": 25,
+            "item2": 50,
+            "text": "25 - 50"
+        },
+        {
+            "item1": 51,
+            "item2": 75,
+            "text": "50 - 75"
+        },
+        {
+            "item1": 76,
+            "item2": 100,
+            "text": "75 - 100"
+        },
+        {
+            "item1": 101,
+            "item2": 200,
+            "text": "100 - 200"
+        },
+        {
+            "item1": 201,
+            "item2": 999999999,
+            "text": "> 200"
+        }
+    ],
+    "participationpct": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "participation"
+        },
+        {
+            "item1": 0.01,
+            "item2": 0.20,
+            "text": "0% - 20%"
+        },
+        {
+            "item1": 0.21,
+            "item2": 0.40,
+            "text": "20% - 40%"
+        },
+        {
+            "item1": 0.41,
+            "item2": 0.60,
+            "text": "40% - 60%"
+        },
+        {
+            "item1": 0.61,
+            "item2": 0.80,
+            "text": "60% - 80%"
+        },
+        {
+            "item1": 0.81,
+            "item2": 1,
+            "text": "80% - 100%"
+        }
+    ],
+    "totalcontributions": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "contribution"
+        },
+        {
+            "item1": 1,
+            "item2": 100000,
+            "text": "0 - 100k"
+        },
+        {
+            "item1": 100001,
+            "item2": 200000,
+            "text": "100k - 200k"
+        },
+        {
+            "item1": 200001,
+            "item2": 500000,
+            "text": "200k - 500k"
+        },
+        {
+            "item1": 500001,
+            "item2": 1000000,
+            "text": "500k - 1mil"
+        },
+        {
+            "item1": 1000001,
+            "item2": 3000000,
+            "text": "1mil - 3mil"
+        },
+        {
+            "item1": 3000001,
+            "item2": 5000000,
+            "text": "3mil - 5mil"
+        },
+        {
+            "item1": 5000001,
+            "item2": 999999999999999,
+            "text": "> 5mil"
+        }
+    ],
+    "averageparticipantcontribution": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "averageparticipantcontribution"
+        },
+        {
+            "item1": 0.0001,
+            "item2": 4999,
+            "text": "< 5k"
+        },
+        {
+            "item1": 5001,
+            "item2": 10000,
+            "text": "5k - 10k"
+        },
+        {
+            "item1": 10001,
+            "item2": 20000,
+            "text": "10k - 20k"
+        },
+        {
+            "item1": 20001,
+            "item2": 30000,
+            "text": "20k - 30k"
+        },
+        {
+            "item1": 30001,
+            "item2": 40000,
+            "text": "30k - 40k"
+        },
+        {
+            "item1": 40001,
+            "item2": 50000,
+            "text": "40k - 50k"
+        },
+        {
+            "item1": 50001,
+            "item2": 999999999999999,
+            "text": "> 50k"
+        }
+    ],
+    "averageemployercontribution": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "averageemployercontribution"
+        },
+        {
+            "item1": 0.0001,
+            "item2": 4999,
+            "text": "< 5k"
+        },
+        {
+            "item1": 5001,
+            "item2": 10000,
+            "text": "5k - 10k"
+        },
+        {
+            "item1": 10001,
+            "item2": 20000,
+            "text": "10k - 20k"
+        },
+        {
+            "item1": 20001,
+            "item2": 30000,
+            "text": "20k - 30k"
+        },
+        {
+            "item1": 30001,
+            "item2": 40000,
+            "text": "30k - 40k"
+        },
+        {
+            "item1": 40001,
+            "item2": 50000,
+            "text": "40k - 50k"
+        },
+        {
+            "item1": 50001,
+            "item2": 999999999999999,
+            "text": "> 50k"
+        }
+    ],
+    "utilizationpct": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "utilization"
+        },
+        {
+            "item1": 0.01,
+            "item2": 0.20,
+            "text": "0% - 20%"
+        },
+        {
+            "item1": 0.21,
+            "item2": 0.40,
+            "text": "20% - 40%"
+        },
+        {
+            "item1": 0.41,
+            "item2": 0.60,
+            "text": "40% - 60%"
+        },
+        {
+            "item1": 0.61,
+            "item2": 0.80,
+            "text": "60% - 80%"
+        },
+        {
+            "item1": 0.81,
+            "item2": 1,
+            "text": "80% - 100%"
+        }
+    ],
+    "planage": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "planage"
+        },
+        {
+            "item1": 1,
+            "item2": 5,
+            "text": "0 - 5 years"
+        },
+        {
+            "item1": 6,
+            "item2": 10,
+            "text": "5 - 10 years"
+        },
+        {
+            "item1": 11,
+            "item2": 15,
+            "text": "10 - 15 years"
+        },
+        {
+            "item1": 16,
+            "item2": 20,
+            "text": "15 - 20 years"
+        },
+        {
+            "item1": 21,
+            "item2": 999999,
+            "text": "> 20 years"
+        }
+    ],
+    "loanspctofplanassets": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "loanplanassets"
+        },
+        {
+            "item1": 0.0001,
+            "item2": 0.05,
+            "text": ".01% - 5%"
+        },
+        {
+            "item1": 0.0501,
+            "item2": 0.1,
+            "text": "5% - 10%"
+        },
+        {
+            "item1": 0.1001,
+            "item2": 0.2,
+            "text": "10% - 20%"
+        },
+        {
+            "item1": 0.2001,
+            "item2": 99999,
+            "text": "> 20%"
+        }
+    ],
+    "totalpctfeesperform5500": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "feesform5500"
+        },
+        {
+            "item1": 0.0001,
+            "item2": 0.005,
+            "text": ".01% - .50%"
+        },
+        {
+            "item1": 0.006,
+            "item2": 0.01,
+            "text": ".50% - 1.00%"
+        },
+        {
+            "item1": 0.0101,
+            "item2": 0.02,
+            "text": "1.00% - 2.00%"
+        },
+        {
+            "item1": 0.0201,
+            "item2": 0.03,
+            "text": "2.00% - 3.00%"
+        },
+        {
+            "item1": 0.0301,
+            "item2": 0.05,
+            "text": "3.00% - 5.00%"
+        },
+        {
+            "item1": 0.0501,
+            "item2": 999999,
+            "text": "> 5.00%"
+        }
+    ],
+    "revenuesharepctplanassets": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "revenueshare"
+        },
+        {
+            "item1": 0.0001,
+            "item2": 0.005,
+            "text": ".01% - .50%"
+        },
+        {
+            "item1": 0.006,
+            "item2": 0.01,
+            "text": ".50% - 1.00%"
+        },
+        {
+            "item1": 0.0101,
+            "item2": 0.02,
+            "text": "1.00% - 2.00%"
+        },
+        {
+            "item1": 0.0201,
+            "item2": 0.03,
+            "text": "2.00% - 3.00%"
+        },
+        {
+            "item1": 0.0301,
+            "item2": 0.05,
+            "text": "3.00% - 5.00%"
+        },
+        {
+            "item1": 0.0501,
+            "item2": 99999,
+            "text": "> 5.00%"
+        }
+    ],
+    "commissionspcttotalassets": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "commission"
+        },
+        {
+            "item1": 0.0001,
+            "item2": 0.005,
+            "text": ".01% - .50%"
+        },
+        {
+            "item1": 0.006,
+            "item2": 0.01,
+            "text": ".50% - 1.00%"
+        },
+        {
+            "item1": 0.0101,
+            "item2": 0.02,
+            "text": "1.00% - 2.00%"
+        },
+        {
+            "item1": 0.0201,
+            "item2": 0.03,
+            "text": "2.00% - 3.00%"
+        },
+        {
+            "item1": 0.0301,
+            "item2": 0.05,
+            "text": "3.00% - 5.00%"
+        },
+        {
+            "item1": 0.0501,
+            "item2": 99999,
+            "text": "> 5.00%"
+        }
+    ],
+    "indirectfeespcttotalassets": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "indirectfees"
+        },
+        {
+            "item1": 0.0001,
+            "item2": 0.005,
+            "text": ".01% - .50%"
+        },
+        {
+            "item1": 0.006,
+            "item2": 0.01,
+            "text": ".50% - 1.00%"
+        },
+        {
+            "item1": 0.0101,
+            "item2": 0.02,
+            "text": "1.00% - 2.00%"
+        },
+        {
+            "item1": 0.0201,
+            "item2": 0.03,
+            "text": "2.00% - 3.00%"
+        },
+        {
+            "item1": 0.0301,
+            "item2": 0.05,
+            "text": "3.00% - 5.00%"
+        },
+        {
+            "item1": 0.0501,
+            "item2": 99999,
+            "text": "> 5.00%"
+        }
+    ],
+    "services": [
+        {
+            "value": "10",
+            "text": "Accounting (including auditing) (10)"
+        },
+        {
+            "value": "11",
+            "text": "Actuarial (11)"
+        },
+        {
+            "value": "12",
+            "text": "Claims Processing (12)"
+        },
+        {
+            "value": "16",
+            "text": "Consulting (general) (16)"
+        },
+        {
+            "value": "17",
+            "text": "Consulting (pension) (17)"
+        },
+        {
+            "value": "13",
+            "text": "Contract Administrator (13)"
+        },
+        {
+            "value": "36",
+            "text": "Copying and Duplicating (36)"
+        },
+        {
+            "value": "18",
+            "text": "Custodial (other than securities) (18)"
+        },
+        {
+            "value": "19",
+            "text": "Custodial (securities) (19)"
+        },
+        {
+            "value": "35",
+            "text": "Employee (plan sponsor) (35)"
+        },
+        {
+            "value": "30",
+            "text": "Employee (plan) (30)"
+        },
+        {
+            "value": "40",
+            "text": "Foreign Entity (40)"
+        },
+        {
+            "value": "22",
+            "text": "Insurance agent and brokers (22)"
+        },
+        {
+            "value": "23",
+            "text": "Insurance Services (23)"
+        },
+        {
+            "value": "27",
+            "text": "Investment Advisory (plan) (27)"
+        },
+        {
+            "value": "26",
+            "text": "Investment Advisory (participants) (26)"
+        },
+        {
+            "value": "28",
+            "text": "Investment Management (28)"
+        },
+        {
+            "value": "29",
+            "text": "Legal (29)"
+        },
+        {
+            "value": "31",
+            "text": "Named Fiduciary (31)"
+        },
+        {
+            "value": "49",
+            "text": "Other Services (49)"
+        },
+        {
+            "value": "38",
+            "text": "Participant Communication (38)"
+        },
+        {
+            "value": "37",
+            "text": "Participant Loan Processing (37)"
+        },
+        {
+            "value": "14",
+            "text": "Plan Administrator (14)"
+        },
+        {
+            "value": "32",
+            "text": "Real Estate Brokerage (32)"
+        },
+        {
+            "value": "15",
+            "text": "Record Keeping and Information Management (15)"
+        },
+        {
+            "value": "33",
+            "text": "Securities Brokerage (33)"
+        },
+        {
+            "value": "21",
+            "text": "Trustee (bank, trust company, or similar financial institution) (21)"
+        },
+        {
+            "value": "25",
+            "text": "Trustee (directed) (25)"
+        },
+        {
+            "value": "24",
+            "text": "Trustee (discretionary) (24)"
+        },
+        {
+            "value": "20",
+            "text": "Trustee (individual) (20)"
+        },
+        {
+            "value": "34",
+            "text": "Valuation (appraisals, etc.) (34)"
+        }
+    ],
+    "planReports": [
+        {
+            "text": "Express Diagnostic",
+            "value": "Express Diagnostic",
+            "show": true,
+            "icon": "mdi-file-multiple",
+            "loader": false,
+            "disabled": false
+        },
+        {
+            "text": "Diagnostic",
+            "value": "Diagnostic",
+            "show": true,
+            "icon": "mdi-file-find",
+            "loader": false,
+            "disabled": false
+        },
+        {
+            "text": "Comparison",
+            "value": "RPEA",
+            "show": true,
+            "icon": "mdi-chart-bubble",
+            "loader": false,
+            "disabled": false
+        },
+        {
+            "text": "Proposal",
+            "value": "Proposal",
+            "show": true,
+            "icon": "mdi-file-document-edit-outline",
+            "loader": false,
+            "disabled": false
+        }
+    ],    
+    "participantAgeList": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "participantage"
+        },
+        {
+            "item1": 1,
+            "item2": 17,
+            "text": "1 - 17"
+        },
+        {
+            "item1": 18,
+            "item2": 25,
+            "text": "18 - 25"
+        },
+        {
+            "item1": 26,
+            "item2": 34,
+            "text": "26 - 34"
+        },
+        {
+            "item1": 35,
+            "item2": 50,
+            "text": "35 - 50"
+        },
+        {
+            "item1": 55,
+            "item2": 64,
+            "text": "55 - 64"
+        },
+        {
+            "item1": 65,
+            "item2": 100,
+            "text": "65 - 100"
+        }
+    ],
+    "planAsset": [
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "planasset"
+        },
+        {
+            "item1": 0,
+            "item2": 100000,
+            "text": "< $100K"
+        },
+        {
+            "item1": 100001,
+            "item2": 250000,
+            "text": "$100K - $250K"
+        },
+        {
+            "item1": 250001,
+            "item2": 500000,
+            "text": "$250K - $500K"
+        },
+        {
+            "item1": 500001,
+            "item2": 1000000,
+            "text": "$500K - $1M"
+        },
+        {
+            "item1": 1000001,
+            "item2": 5000000,
+            "text": "$1M - $5M"
+        },
+        {
+            "item1": 5000001,
+            "item2": 10000000,
+            "text": "$5M - $10M"
+        },
+        {
+            "item1": 10000001,
+            "item2": 999999999999999,
+            "text": "$10M >"
+        }
+    ],
+    "employeeList":[
+        {
+            "item1": 0,
+            "item2": 0,
+            "text": "Custom",
+            "type": "employee"
+        },        
+        {
+            "item1": 1,
+            "item2": 50,
+            "text": "1 - 50"
+        },
+        {
+            "item1": 50,
+            "item2": 100,
+            "text": "50 - 100"
+        },
+        {
+            "item1": 100,
+            "item2": 250,
+            "text": "100 - 250"
+        },
+        {
+            "item1": 250,
+            "item2": 500,
+            "text": "250 - 500"
+        },
+        {
+            "item1": 500,
+            "item2": 999999999,
+            "text": "500 and above"
+        }
+    ], 
+    "planFilterButtonList": [
+        {
+            "selectButton": [
+                {
+                    "text": "PLAN TYPE",
+                    "Id": 1,
+                    "buttonType": "",
+                    "model": false
+                },
+                {
+                    "text": "ASSET VALUE",
+                    "Id": 2,
+                    "buttonType": "",
+                    "model": false
+                },
+                {
+                    "text": "PARTICIPANTS",
+                    "Id": 3,
+                    "buttonType": "",
+                    "model": false
+                },
+                {
+                    "text": "MORE",
+                    "Id": 4,
+                    "buttonType": "",
+                    "model": false
+                }
+            ]
+        },
+        {
+            "assetsList": [
+                {
+                    "iD": 1,
+                    "item1": 0,
+                    "item2": 99999,
+                    "text": "< $100K",
+                    "model": false
+                },
+                {
+                    "iD": 2,
+                    "item1": 100000,
+                    "item2": 250000,
+                    "text": "$100K - $250K",
+                    "model": false
+                },
+                {
+                    "iD": 3,
+                    "item1": 250001,
+                    "item2": 500000,
+                    "text": "$250K - $500K",
+                    "model": false
+                },
+                {
+                    "iD": 4,
+                    "item1": 500001,
+                    "item2": 1000000,
+                    "text": "$500K - 1M",
+                    "model": false
+                },
+                {
+                    "iD": 5,
+                    "item1": 1000001,
+                    "item2": 5000000,
+                    "text": "$1M - $5M",
+                    "model": false
+                },
+                {
+                    "iD": 6,
+                    "item1": 5000001,
+                    "item2": 10000000,
+                    "text": "$5M - $10M",
+                    "model": false
+                },
+                {
+                    "iD": 7,
+                    "item1": 10000001,
+                    "item2": 999999999999999,
+                    "text": "$10M >",
+                    "model": false
+                }
+            ],
+            "participantsList": [
+                {
+                    "iD": 1,
+                    "item1": 0,
+                    "item2": 25,
+                    "text": "< 25",
+                    "model": false
+                },
+                {
+                    "iD": 2,
+                    "item1": 26,
+                    "item2": 50,
+                    "text": "26 - 50",
+                    "model": false
+                },
+                {
+                    "iD": 3,
+                    "item1": 51,
+                    "item2": 100,
+                    "text": "51 - 100",
+                    "model": false
+                },
+                {
+                    "iD": 4,
+                    "item1": 101,
+                    "item2": 250,
+                    "text": "101 - 250",
+                    "model": false
+                },
+                {
+                    "iD": 5,
+                    "item1": 251,
+                    "item2": 500,
+                    "text": "251 - 500",
+                    "model": false
+                },
+                {
+                    "iD": 6,
+                    "item1": 501,
+                    "item2": 999999999,
+                    "text": "501 >",
+                    "model": false
+                }
+            ]
+        }
+    ],
+    "planSchoolButtonList": [
+        {
+            "text": "School District",
+            "Id": 1,
+            "type": "schoolType",
+            "model": false,
+            "selectSchoolTypeList": [
+                {
+                    "Id": 1,
+                    "text": "Regular",
+                    "value": "regular"
+                },
+                {
+                    "Id": 2,
+                    "text": "Charter",
+                    "value": "charter"
+                },
+                {
+                    "Id": 3,
+                    "text": "Special Education",
+                    "value": "specialEducation"
+                },
+                {
+                    "Id": 4,
+                    "text": "Career & Technical School",
+                    "value": "careerTechnicalSchool"
+                },
+                {
+                    "Id": 5,
+                    "text": "Other / Alternative",
+                    "value": "otherAlternative"
+                }
+            ]
+        },
+        {
+            "text": "ASSET VALUE",
+            "Id": 2,
+            "type": "assetValue",
+            "model": false,
+            "assetsList": [
+                {
+                    "text": "< $100K",
+                    "Id": 1,
+                    "model": false,
+                    "item1": 0,
+                    "item2": 100000
+                },
+                {
+                    "text": "$100K - $250K",
+                    "Id": 2,
+                    "model": false,
+                    "item1": 100000,
+                    "item2": 250000
+                },
+                {
+                    "text": "$250K - $500K",
+                    "Id": 3,
+                    "model": false,
+                    "item1": 250000,
+                    "item2": 500000
+                },
+                {
+                    "text": "$500K - $1M",
+                    "Id": 4,
+                    "model": false,
+                    "item1": 500000,
+                    "item2": 1000000
+                },
+                {
+                    "text": "$1M - $5M",
+                    "Id": 5,
+                    "model": false,
+                    "item1": 1000000,
+                    "item2": 5000000
+                },
+                {
+                    "text": "$5M - $10M",
+                    "Id": 6,
+                    "model": false,
+                    "item1": 5000000,
+                    "item2": 10000000
+                },
+                {
+                    "text": "$10M >",
+                    "Id": 7,
+                    "model": false,
+                    "item1": 10000000,
+                    "item2": 999999999999999
+                }
+            ]
+        },
+        {
+            "text": "TPA",
+            "Id": 3,
+            "type": "noOfTpas",
+            "model": false,
+            "tpaList": [
+                {
+                    "Id": 1,
+                    "text": "Name",
+                    "model": false
+                },
+                {
+                    "Id": 2,
+                    "text": "Name",
+                    "model": false
+                },
+                {
+                    "Id": 3,
+                    "text": "Name",
+                    "model": false
+                },
+                {
+                    "Id": 4,
+                    "text": "Name",
+                    "model": false
+                }
+            ]
+        },
+        {
+            "text": "MORE",
+            "Id": 4,
+            "type": "more",
+            "model": false,
+            "TPAList": [
+                {
+                    "Id": 1,
+                    "text": "Name",
+                    "value": 0,
+                    "sortable": false
+                },
+                {
+                    "Id": 2,
+                    "text": "Name",
+                    "value": 1
+                },
+                {
+                    "Id": 3,
+                    "text": "Name",
+                    "value": 2
+                },
+                {
+                    "Id": 4,
+                    "text": "Name",
+                    "value": 3
+                }
+            ],
+            "PayrollList": [
+                {
+                    "Id": 1,
+                    "text": "All",
+                    "value": 0,
+                    "sortable": false
+                },
+                {
+                    "Id": 2,
+                    "text": "Approved",
+                    "value": 1
+                },
+                {
+                    "Id": 3,
+                    "text": "Approval Required",
+                    "value": 2
+                },
+                {
+                    "Id": 4,
+                    "text": "Approval Pending",
+                    "value": 3
+                }
+            ]
+        }
+    ],
+    "planIndividualButton": [
+        {
+            "text": "ACCOUNT TYPE",
+            "Id": 1,
+            "type": "menu",
+            "model": false,
+            "menulist": [
+                {
+                    "text": "Select All",
+                    "Id": 1,
+                    "model": true
+                },
+                {
+                    "text": "Traditional IRA",
+                    "Id": 2,
+                    "model": true
+                },
+                {
+                    "text": "Roth IRA",
+                    "Id": 3,
+                    "model": true
+                },
+                {
+                    "text": "Joint",
+                    "Id": 4,
+                    "model": true
+                },
+                {
+                    "text": "401(k)",
+                    "Id": 5,
+                    "model": true
+                },
+                {
+                    "text": "457(b)",
+                    "Id": 6,
+                    "model": true
+                },
+                {
+                    "text": "403(b)",
+                    "Id": 7,
+                    "model": true
+                }
+            ]
+        },
+        {
+            "text": "ASSET VALUE",
+            "Id": 2,
+            "type": "custom",
+            "model": false,
+            "assetsList": [
+                {
+                    "text": "< $100K",
+                    "Id": 1,
+                    "model": false,
+                    "item1": 0,
+                    "item2": 100000
+                },
+                {
+                    "text": "$100K - $250K",
+                    "Id": 2,
+                    "model": false,
+                    "item1": 100000,
+                    "item2": 250000
+                },
+                {
+                    "text": "$250K - $500K",
+                    "Id": 3,
+                    "model": false,
+                    "item1": 250000,
+                    "item2": 500000
+                },
+                {
+                    "text": "$500K - $1M",
+                    "Id": 4,
+                    "model": false,
+                    "item1": 500000,
+                    "item2": 1000000
+                },
+                {
+                    "text": "$1M - $5M",
+                    "Id": 5,
+                    "model": false,
+                    "item1": 1000000,
+                    "item2": 5000000
+                },
+                {
+                    "text": "$5M - $10M",
+                    "Id": 6,
+                    "model": false,
+                    "item1": 5000000,
+                    "item2": 10000000
+                },
+                {
+                    "text": "$10M >",
+                    "Id": 7,
+                    "model": false,
+                    "item1": 10000000,
+                    "item2": 999999999999999
+                }
+            ]
+        },
+        {
+            "text": "AGE",
+            "Id": 3,
+            "type": "age",
+            "model": false,
+            "ageList": [
+                {
+                    "text": "20 or below",
+                    "Id": 1,
+                    "model": false,
+                    "item1": 0,
+                    "item2": 20
+                },
+                {
+                    "text": "21-30",
+                    "Id": 2,
+                    "model": false,
+                    "item1": 21,
+                    "item2": 30
+                },
+                {
+                    "text": "31-40",
+                    "Id": 3,
+                    "model": false,
+                    "item1": 31,
+                    "item2": 40
+                },
+                {
+                    "text": "41-50",
+                    "Id": 4,
+                    "model": false,
+                    "item1": 41,
+                    "item2": 50
+                },
+                {
+                    "text": "51-60",
+                    "Id": 5,
+                    "model": false,
+                    "item1": 51,
+                    "item2": 60
+                },
+                {
+                    "text": "61-70",
+                    "Id": 6,
+                    "model": false,
+                    "item1": 61,
+                    "item2": 70
+                },
+                {
+                    "text": "71 and above",
+                    "Id": 7,
+                    "model": false,
+                    "item1": 61,
+                    "item2": 9999999
+                }
+            ]
+        },
+        {
+            "text": "MORE",
+            "Id": 4,
+            "type": "more",
+            "model": false,
+            "morelist": [
+                {
+                    "text": "Employment Status",
+                    "Id": 1
+                },
+                {
+                    "text": "Plan Status",
+                    "Id": 2
+                },
+                {
+                    "text": "Has Loan",
+                    "Id": 3
+                },
+                {
+                    "text": "Equity Allocation",
+                    "Id": 4
+                }
+            ]
+        }
+    ],
+    "country":[
+        {
+            "text": "United States of America",
+            "value": "United States of America"
+        },
+        {
+            "text": "Afghanistan",
+            "value": "Afghanistan"
+        },
+        {
+            "text": "Albania",
+            "value": "Albania"
+        },
+        {
+            "text": "Algeria",
+            "value": "Algeria"
+        },
+        {
+            "text": "Andorra",
+            "value": "Andorra"
+        },
+        {
+            "text": "Angola",
+            "value": "Angola"
+        },
+        {
+            "text": "Antigua and Barbuda",
+            "value": "Antigua and Barbuda"
+        },
+        {
+            "text": "Argentina",
+            "value": "Argentina"
+        },
+        {
+            "text": "Armenia",
+            "value": "Armenia"
+        },
+        {
+            "text": "Australia",
+            "value": "Australia"
+        },
+        {
+            "text": "Austria",
+            "value": "Austria"
+        },
+        {
+            "text": "Azerbaijan",
+            "value": "Azerbaijan"
+        },
+
+        {
+            "text": "Bahamas",
+            "value": "Bahamas"
+        },
+        {
+            "text": "Bahrain",
+            "value": "Bahrain"
+        },
+        {
+            "text": "Bangladesh",
+            "value": "Bangladesh"
+        },
+        {
+            "text": "Barbados",
+            "value": "Barbados"
+        },
+        {
+            "text": "Belarus",
+            "value": "Belarus"
+        },
+        {
+            "text": "Belgium",
+            "value": "Belgium"
+        },
+        {
+            "text": "Belize",
+            "value": "Belize"
+        },
+        {
+            "text": "Benin",
+            "value": "Benin"
+        },
+        {
+            "text": "Bhutan",
+            "value": "Bhutan"
+        },
+        {
+            "text": "Bolivia",
+            "value": "Bolivia"
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "value": "Bosnia and Herzegovina"
+        },
+        {
+            "text": "Botswana",
+            "value": "Botswana"
+        },
+        {
+            "text": "Brazil",
+            "value": "Brazil"
+        },
+        {
+            "text": "Brunei",
+            "value": "Brunei"
+        },
+        {
+            "text": "Bulgaria",
+            "value": "Bulgaria"
+        },
+        {
+            "text": "Burkina Faso",
+            "value": "Burkina Faso"
+        },
+        {
+            "text": "Burundi",
+            "value": "Burundi"
+        },
+        {
+            "text": "Côte d'Ivoire",
+            "value": "Côte d'Ivoire"
+        },
+        {
+            "text": "Cabo Verde",
+            "value": "Cabo Verde"
+        },
+        {
+            "text": "Cambodia",
+            "value": "Cambodia"
+        },
+        {
+            "text": "Cameroon",
+            "value": "Cameroon"
+        },
+        {
+            "text": "Canada",
+            "value": "Canada"
+        },
+        {
+            "text": "Central African Republic",
+            "value": "Central African Republic"
+        },
+        {
+            "text": "Chad",
+            "value": "Chad"
+        },
+        {
+            "text": "Chile",
+            "value": "Chile"
+        },
+        {
+            "text": "China",
+            "value": "China"
+        },
+        {
+            "text": "Colombia",
+            "value": "Colombia"
+        },
+        {
+            "text": "Comoros",
+            "value": "Comoros"
+        },
+        {
+            "text": "Congo (Congo-Brazzaville)",
+            "value": "Congo (Congo-Brazzaville)"
+        },
+        {
+            "text": "Costa Rica",
+            "value": "Costa Rica"
+        },
+        {
+            "text": "Croatia",
+            "value": "Croatia"
+        },
+        {
+            "text": "Cuba",
+            "value": "Cuba"
+        },
+        {
+            "text": "Cyprus",
+            "value": "Cyprus"
+        },
+        {
+            "text": "Czechia (Czech Republic)",
+            "value": "Czechia (Czech Republic)"
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "value": "Democratic Republic of the Congo"
+        },
+        {
+            "text": "Denmark",
+            "value": "Denmark"
+        },
+        {
+            "text": "Djibouti",
+            "value": "Djibouti"
+        },
+        {
+            "text": "Dominica",
+            "value": "Dominica"
+        },
+        {
+            "text": "Dominican Republic",
+            "value": "Dominican Republic"
+        },
+        {
+            "text": "Ecuador",
+            "value": "Ecuador"
+        },
+        {
+            "text": "Egypt",
+            "value": "Egypt"
+        },
+        {
+            "text": "El Salvador",
+            "value": "El Salvador"
+        },
+        {
+            "text": "Equatorial Guinea",
+            "value": "Equatorial Guinea"
+        },
+        {
+            "text": "Eritrea",
+            "value": "Eritrea"
+        },
+        {
+            "text": "Estonia",
+            "value": "Estonia"
+        },
+        {
+            "text": "Eswatini (fmr. 'Swaziland')",
+            "value": "Eswatini (fmr. 'Swaziland')"
+        },
+        {
+            "text": "Ethiopia",
+            "value": "Ethiopia"
+        },
+        {
+            "text": "Fiji",
+            "value": "Fiji"
+        },
+        {
+            "text": "Finland",
+            "value": "Finland"
+        },
+        {
+            "text": "France",
+            "value": "France"
+        },
+        {
+            "text": "Gabon",
+            "value": "Gabon"
+        },
+        {
+            "text": "Gambia",
+            "value": "Gambia"
+        },
+        {
+            "text": "Georgia",
+            "value": "Georgia"
+        },
+        {
+            "text": "Germany",
+            "value": "Germany"
+        },
+        {
+            "text": "Ghana",
+            "value": "Ghana"
+        },
+        {
+            "text": "Greece",
+            "value": "Greece"
+        },
+        {
+            "text": "Grenada",
+            "value": "Grenada"
+        },
+        {
+            "text": "Guatemala",
+            "value": "Guatemala"
+        },
+        {
+            "text": "Guinea",
+            "value": "Guinea"
+        },
+        {
+            "text": "Guinea-Bissau",
+            "value": "Guinea-Bissau"
+        },
+        {
+            "text": "Guyana",
+            "value": "Guyana"
+        },
+        {
+            "text": "Haiti",
+            "value": "Haiti"
+        },
+        {
+            "text": "Holy See",
+            "value": "Holy See"
+        },
+        {
+            "text": "Honduras",
+            "value": "Honduras"
+        },
+        {
+            "text": "Hungary",
+            "value": "Hungary"
+        },
+        {
+            "text": "Iceland",
+            "value": "Iceland"
+        },
+        {
+            "text": "India",
+            "value": "India"
+        },
+        {
+            "text": "Indonesia",
+            "value": "Indonesia"
+        },
+        {
+            "text": "Iran",
+            "value": "Iran"
+        },
+        {
+            "text": "Iraq",
+            "value": "Iraq"
+        },
+        {
+            "text": "Ireland",
+            "value": "Ireland"
+        },
+        {
+            "text": "Israel",
+            "value": "Israel"
+        },
+        {
+            "text": "Italy",
+            "value": "Italy"
+        },
+        {
+            "text": "Jamaica",
+            "value": "Jamaica"
+        },
+        {
+            "text": "Japan",
+            "value": "Japan"
+        },
+        {
+            "text": "Jordan",
+            "value": "Jordan"
+        },
+        {
+            "text": "Kazakhstan",
+            "value": "Kazakhstan"
+        },
+        {
+            "text": "Kenya",
+            "value": "Kenya"
+        },
+        {
+            "text": "Kiribati",
+            "value": "Kiribati"
+        },
+        {
+            "text": "Kuwait",
+            "value": "Kuwait"
+        },
+        {
+            "text": "Kyrgyzstan",
+            "value": "Kyrgyzstan"
+        },
+        {
+            "text": "Laos",
+            "value": "Laos"
+        },
+        {
+            "text": "Latvia",
+            "value": "Latvia"
+        },
+        {
+            "text": "Lebanon",
+            "value": "Lebanon"
+        },
+        {
+            "text": "Lesotho",
+            "value": "Lesotho"
+        },
+        {
+            "text": "Liberia",
+            "value": "Liberia"
+        },
+        {
+            "text": "Libya",
+            "value": "Libya"
+        },
+        {
+            "text": "Liechtenstein",
+            "value": "Liechtenstein"
+        },
+        {
+            "text": "Lithuania",
+            "value": "Lithuania"
+        },
+        {
+            "text": "Luxembourg",
+            "value": "Luxembourg"
+        },
+        {
+            "text": "Madagascar",
+            "value": "Madagascar"
+        },
+        {
+            "text": "Malawi",
+            "value": "Malawi"
+        },
+        {
+            "text": "Malaysia",
+            "value": "Malaysia"
+        },
+        {
+            "text": "Maldives",
+            "value": "Maldives"
+        },
+        {
+            "text": "Mali",
+            "value": "Mali"
+        },
+        {
+            "text": "Malta",
+            "value": "Malta"
+        },
+        {
+            "text": "Marshall Islands",
+            "value": "Marshall Islands"
+        },
+        {
+            "text": "Mauritania",
+            "value": "Mauritania"
+        },
+        {
+            "text": "Mauritius",
+            "value": "Mauritius"
+        },
+        {
+            "text": "Mexico",
+            "value": "Mexico"
+        },
+        {
+            "text": "Micronesia",
+            "value": "Micronesia"
+        },
+        {
+            "text": "Moldova",
+            "value": "Moldova"
+        },
+        {
+            "text": "Monaco",
+            "value": "Monaco"
+        },
+        {
+            "text": "Mongolia",
+            "value": "Mongolia"
+        },
+        {
+            "text": "Montenegro",
+            "value": "Montenegro"
+        },
+        {
+            "text": "Morocco",
+            "value": "Morocco"
+        },
+        {
+            "text": "Mozambique",
+            "value": "Mozambique"
+        },
+        {
+            "text": "Myanmar (formerly Burma)",
+            "value": "Myanmar (formerly Burma)"
+        },
+        {
+            "text": "Namibia",
+            "value": "Namibia"
+        },
+        {
+            "text": "Nauru",
+            "value": "Nauru"
+        },
+        {
+            "text": "Nepal",
+            "value": "Nepal"
+        },
+        {
+            "text": "Netherlands",
+            "value": "Netherlands"
+        },
+        {
+            "text": "New Zealand",
+            "value": "New Zealand"
+        },
+        {
+            "text": "Nicaragua",
+            "value": "Nicaragua"
+        },
+        {
+            "text": "Niger",
+            "value": "Niger"
+        },
+        {
+            "text": "Nigeria",
+            "value": "Nigeria"
+        },
+        {
+            "text": "North Korea",
+            "value": "North Korea"
+        },
+        {
+            "text": "North Macedonia",
+            "value": "North Macedonia"
+        },
+        {
+            "text": "Norway",
+            "value": "Norway"
+        },
+        {
+            "text": "Oman",
+            "value": "Oman"
+        },
+        {
+            "text": "Pakistan",
+            "value": "Pakistan"
+        },
+        {
+            "text": "Palau",
+            "value": "Palau"
+        },
+        {
+            "text": "Palestine State",
+            "value": "Palestine State"
+        },
+        {
+            "text": "Panama",
+            "value": "Panama"
+        },
+        {
+            "text": "Papua New Guinea",
+            "value": "Papua New Guinea"
+        },
+        {
+            "text": "Paraguay",
+            "value": "Paraguay"
+        },
+        {
+            "text": "Peru",
+            "value": "Peru"
+        },
+        {
+            "text": "Philippines",
+            "value": "Philippines"
+        },
+        {
+            "text": "Poland",
+            "value": "Poland"
+        },
+        {
+            "text": "Portugal",
+            "value": "Portugal"
+        },
+        {
+            "text": "Qatar",
+            "value": "Qatar"
+        },
+        {
+            "text": "Romania",
+            "value": "Romania"
+        },
+        {
+            "text": "Russia",
+            "value": "Russia"
+        },
+        {
+            "text": "Rwanda",
+            "value": "Rwanda"
+        },
+        {
+            "text": "Saint Kitts and Nevis",
+            "value": "Saint Kitts and Nevis"
+        },
+        {
+            "text": "Saint Lucia",
+            "value": "Saint Lucia"
+        },
+        {
+            "text": "Saint Vincent and the Grenadines",
+            "value": "Saint Vincent and the Grenadines"
+        },
+        {
+            "text": "Samoa",
+            "value": "Samoa"
+        },
+        {
+            "text": "San Marino",
+            "value": "San Marino"
+        },
+        {
+            "text": "Sao Tome and Principe",
+            "value": "Sao Tome and Principe"
+        },
+        {
+            "text": "Saudi Arabia",
+            "value": "Saudi Arabia"
+        },
+        {
+            "text": "Senegal",
+            "value": "Senegal"
+        },
+        {
+            "text": "Serbia",
+            "value": "Serbia"
+        },
+        {
+            "text": "Seychelles",
+            "value": "Seychelles"
+        },
+        {
+            "text": "Sierra Leone",
+            "value": "Sierra Leone"
+        },
+        {
+            "text": "Singapore",
+            "value": "Singapore"
+        },
+        {
+            "text": "Slovakia",
+            "value": "Slovakia"
+        },
+        {
+            "text": "Slovakia",
+            "value": "Slovakia"
+        },
+        {
+            "text": "Slovenia",
+            "value": "Slovenia"
+        },
+        {
+            "text": "Solomon Islands",
+            "value": "Solomon Islands"
+        },
+        {
+            "text": "Somalia",
+            "value": "Somalia"
+        },
+        {
+            "text": "South Africa",
+            "value": "South Africa"
+        },
+        {
+            "text": "South Korea",
+            "value": "South Korea"
+        },
+        {
+            "text": "South Sudan",
+            "value": "South Sudan"
+        },
+        {
+            "text": "Spain",
+            "value": "Spain"
+        },
+        {
+            "text": "Sri Lanka",
+            "value": "Sri Lanka"
+        },
+        {
+            "text": "Sudan",
+            "value": "Sudan"
+        },
+        {
+            "text": "Suriname",
+            "value": "Suriname"
+        },
+        {
+            "text": "Sweden",
+            "value": "Sweden"
+        },
+        {
+            "text": "Switzerland",
+            "value": "Switzerland"
+        },
+        {
+            "text": "Syria",
+            "value": "Syria"
+        },
+        {
+            "text": "Tajikistan",
+            "value": "Tajikistan"
+        },
+        {
+            "text": "Tanzania",
+            "value": "Tanzania"
+        },
+        {
+            "text": "Thailand",
+            "value": "Thailand"
+        },
+        {
+            "text": "Timor-Leste",
+            "value": "Timor-Leste"
+        },
+        {
+            "text": "Togo",
+            "value": "Togo"
+        },
+        {
+            "text": "Tonga",
+            "value": "Tonga"
+        },
+        {
+            "text": "Trinidad and Tobago",
+            "value": "Trinidad and Tobago"
+        },
+        {
+            "text": "Tunisia",
+            "value": "Tunisia"
+        },
+        {
+            "text": "Turkey",
+            "value": "Turkey"
+        },
+        {
+            "text": "Turkmenistan",
+            "value": "Turkmenistan"
+        },
+        {
+            "text": "Tuvalu",
+            "value": "Tuvalu"
+        },
+        {
+            "text": "Uganda",
+            "value": "Uganda"
+        },
+        {
+            "text": "Ukraine",
+            "value": "Ukraine"
+        },
+        {
+            "text": "United Arab Emirates",
+            "value": "United Arab Emirates"
+        },
+        {
+            "text": "United Kingdom",
+            "value": "United Kingdom"
+        },
+        {
+            "text": "Uruguay",
+            "value": "Uruguay"
+        },
+        {
+            "text": "Uzbekistan",
+            "value": "Uzbekistan"
+        },
+        {
+            "text": "Vanuatu",
+            "value": "Vanuatu"
+        },
+        {
+            "text": "Venezuela",
+            "value": "Venezuela"
+        },
+        {
+            "text": "Vietnam",
+            "value": "Vietnam"
+        },
+        {
+            "text": "Yemen",
+            "value": "Yemen"
+        },
+        {
+            "text": "Zambia",
+            "value": "Zambia"
+        },
+        {
+            "text": "Zimbabwe",
+            "value": "Zimbabwe"
+        }
+    ]
+}

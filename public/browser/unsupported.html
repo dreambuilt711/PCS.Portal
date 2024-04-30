@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+        <link rel="icon" type="image/x-icon" href="/pcslogo.png" />
+        <link rel="shortcut icon" type="image/x-icon" href="/pcslogo.png" />
+
+        <title>Unsupported Browser - Advisor Lab</title>
+
+        <meta name="theme-color" content="#009b67">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        
+        <style>
+            body {
+                font-family: "Roboto" !important;
+                font-size: 14px;
+                font-weight: 400;
+                font-style: normal;
+                color: #333333;
+                text-rendering: optimizeLegibility;
+            }
+            .errorHeader {
+                font-size: 32px!important;
+                font-weight: 400;
+                line-height: normal;
+                letter-spacing: normal;
+            }
+            .font_18{
+                font-size: 18px!important;
+                font-weight: 400;
+                line-height: normal;
+                letter-spacing: normal;
+            }            
+            .dot{
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                background: #3c82cc;
+                font-size: 16px;
+                text-align: center;
+                padding: 4px;
+                color: #fff;
+            }            
+            .font_18{
+                font-size:18px;
+                font-weight: 400
+            }
+            .flex {
+                -webkit-box-flex: 1;
+                -ms-flex: 1 1 auto;
+                flex: 1 1 auto;
+                max-width: 100%;
+            }            
+            .column{
+                display:flex;
+                flex-direction: column;
+            } 
+            .font_12{
+                font-size: 12px;
+                font-weight: 400;
+            }
+            .grey{
+                color: #909090;
+            } 
+            .supportText{
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                letter-spacing: -0.24px;
+                line-height: normal;
+                color: #959595;                
+                text-transform: uppercase;
+            } 
+            .emailFontColor{
+                color: #3B82CA !important;
+            }    
+        </style>
+    </head>
+    <body class="d-flex flex-column min-vh-100">
+        <div class="container mb-5 mt-5">
+            <div class="content-wrap">
+                <div class="mt-5 pt-3">
+                   <div class="justify-content-center align-items-center d-flex">
+                       <div class="column">
+                            <h1 class="errorHeader mb-4 pb-1">Your browser is not supported</h1>                            
+                            <div class="row">
+                                <div class="col-1">
+                                    <div class="dot">1</div>
+                                </div>
+                                <div class="col-11 align-self-center pt-1">
+                                    <h4 class="font_18 pl-3 mb-0">To continue, please open one of the supported browsers shown below.</h4>
+                                    <div class="pl-3 pt-3 pb-3 pr-3">
+                                       <div class="row">
+                                           <div class="column ml-3 mr-3">
+                                                <a href="https://www.google.com/chrome/" target="_blank">
+                                                    <img src="chrome.svg" height="50px" width="50px" >
+                                                </a>
+                                                <span class="font_12 pt-2 pb-2 align-self-center">Chrome</span>
+                                           </div>
+                                           <div class="column ml-3 mr-3">
+                                                <a href="https://www.microsoft.com/en-us/edge" target="_blank">
+                                                    <img src="edge.svg" height="50px" width="50px" >
+                                                </a>
+                                                <span class="font_12 pt-2 pb-2 align-self-center ">Edge</span>
+                                           </div>
+                                           <div class="column ml-3 mr-3">
+                                                <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
+                                                    <img src="firefox.svg" height="50px" width="50px" >
+                                                </a>
+                                                <span class="font_12 pt-2 pb-2 align-self-center">Firefox</span>
+                                           </div> 
+                                        </div> 
+                                        <h3 class="font_12 grey pt-3" >Click an icon above for download instructions</h3>                                 
+                                    </div> 
+                                </div>                                
+                            </div> 
+                            <div class="row">
+                                <div class="col-1">
+                                    <div class="dot">2</div>
+                                </div>
+                                <div class="col-11 align-self-center pt-1">
+                                    <h4 class="font_18 pl-3 mb-5">Using one of the browsers listed above, log in and continue as normal.</h4>
+                                    <h4 class="font_18 pl-3 mt-2">For further assistance logging in, please email support:</h4>
+                                    <a class="font_18 pl-3 pr-3 mt-1 emailFontColor" href="mailto:info@theadvisorlab.com" title="Tech Support" target="_blank">info@theadvisorlab.com</a>
+                                </div>  
+                            </div>                           
+                        </div>                       
+                   </div> 
+                </div>
+            </div>           
+        </div>
+    </body>
+</html>

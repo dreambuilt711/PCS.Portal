@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+
+  <link rel="icon" id="favicon" type="image/x-icon" href="<%= BASE_URL %>" />
+	<link rel="shortcut icon" id="faviconshortcut" type="image/x-icon" href="<%= BASE_URL %>" />
+
+  <title>Advisor Lab</title>
+
+  <meta name="theme-color" content="#009b67">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons' rel="stylesheet">
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDaI2VlCUh9wmI5AWhA4dDqnEgfAA8ngWE"></script>
+  <link href="https://fonts.googleapis.com/css?family=Crimson+Text:600" rel="stylesheet">  
+  <link href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700&display=swap" rel="stylesheet">
+ 
+</head>
+<body>
+  <div id="app">
+    <div class="loading_container" id="projectLoader">
+      <div class="container overLay_fill">
+        <div class="row justify-center align-center">
+          <div class="loadingbox">
+              <div class="col-12 pb-0">
+                <span>
+                    <div class="loading-icon">
+                        <div class="rect rect1"></div>
+                        <div class="rect rect2"></div>
+                        <div class="rect rect3"></div>
+                        <div class="rect rect2"></div>
+                        <div class="rect rect1"></div>    
+                    </div>
+                </span>
+              </div>
+              <div class="col-12">
+                  <h3 class="loaderText">Loading..</h3>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <style>
+    .loading_container { 
+      background-color: #ffffff !important;
+      opacity: 0.90;
+      text-align: center;
+      border-radius: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+      position: fixed;
+      overflow-y: auto;
+      top: 0;
+      left: 0;   
+    }
+    .container.overLay_fill {
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      height: 100%;
+      justify-content: center;
+    }
+    .loadingbox{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      position: absolute;
+    }
+    .loadingbox span{
+      height: 40px;
+      width: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: auto;
+    }
+    .loaderText{
+      color: #0077cc;
+      font-size: 15.21px;
+      text-transform: capitalize;
+      font-family: Roboto, sans-serif, sans-serif;
+      line-height: 22.815px;
+      font-weight: 400;
+    }
+    .justify-center {
+      -webkit-box-pack: center !important;
+      -ms-flex-pack: center !important;
+      justify-content: center !important;
+    }
+    .align-center {
+      -webkit-box-align: center !important;
+      -ms-flex-align: center !important;
+      align-items: center !important;
+    }
+    .pb-0{
+      padding-bottom: 0px;
+    }
+    .loading-icon {
+      width: 50px;
+      height: 40px;
+    }
+    .loading-icon .rect {
+      background-color: #07C;
+      height:100%;
+      width: 4px;
+      float: left;
+      border-radius: 10px;
+      -webkit-animation: loading-rect 1s infinite ease-in-out;
+      -moz-animation: loading-rect 1s infinite ease-in-out;
+      -o-animation: loading-rect 1s infinite ease-in-out;
+      animation: loading-rect 1s infinite ease-in-out;
+    }
+    .loading-icon .rect ~ .rect {
+      margin-left: 4px;
+    }
+    .loading-icon .rect1 {
+      -webkit-animation-delay: 0.5s;
+      -moz-animation-delay: 0.5s;
+      -o-animation-delay: 0.5s;
+      animation-delay: 0.5s;
+    }
+    .loading-icon .rect2 {
+      -webkit-animation-delay: 0.25s;
+      -moz-animation-delay: 0.25s;
+      -o-animation-delay: 0.25s;
+      animation-delay: 0.25s;
+    }
+    .loading-icon .rect3 {
+      -webkit-animation-delay: 0.0s;
+      -moz-animation-delay: 0.0s;
+      -o-animation-delay: 0.0s;
+      animation-delay: 0.0s;
+    }
+    @-webkit-keyframes loading-rect{ 0%, 100% { -webkit-transform: scaleY(0.2); opacity: 0.2; } 50% { -webkit-transform: scaleY(1.0); opacity: 1; }}
+    @-moz-keyframes loading-rect{ 0%, 100% { -moz-transform: scaleY(0.2); opacity: 0.2; } 50% { -moz-transform: scaleY(1.0); opacity: 1; }}
+    @-o-keyframes loading-rect{ 0%, 100% { -o-transform: scaleY(0.2); opacity: 0.2; } 50% { -o-transform: scaleY(1.0); opacity: 1; }}
+    @keyframes loading-rect{ 0%, 100% {-webkit-transform: scaleY(0.2);-moz-transform: scaleY(0.2);-ms-transform: scaleY(0.2);transform: scaleY(0.2); opacity: 0.2; } 50% {-webkit-transform: scaleY(1.0);-moz-transform: scaleY(1.0);-ms-transform: scaleY(1.0);transform: scaleY(1.0); opacity: 1; };
+    }
+  </style>
+  <script src="/env.js"></script>   
+</body>
+</html>

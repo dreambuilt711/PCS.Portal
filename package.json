@@ -1,0 +1,109 @@
+{
+  "name": "pcs.portal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "postinstall": "node tools/copy-webviewer-files.js"
+  },
+  "dependencies": {
+    "@pdftron/pdfjs-express-viewer": "^8.7.4",
+    "@vue/eslint-config-prettier": "^9.0.0",
+    "axios": "^1.6.5",
+    "core-js": "^3.35.0",
+    "d3": "^7.8.5",
+    "html2canvas": "^1.4.1",
+    "idle-vue": "^2.0.5",
+    "inputmask": "^5.0.8",
+    "jspdf": "^2.5.1",
+    "lodash": "^4.17.21",
+    "material-design-icons-iconfont": "^6.7.0",
+    "mitt": "^3.0.1",
+    "moment": "^2.30.1",
+    "qs": "^6.11.2",
+    "sass-loader": "^13.3.3",
+    "vue": "^3.4.15",
+    "vue-color": "^2.8.1",
+    "vue-dragscroll": "^4.0.5",
+    "vue-fullpage-modal": "^0.5.3",
+    "vue-gtag": "^2.0.1",
+    "vue-i18n": "^9.9.0",
+    "vue-resource": "^1.5.3",
+    "vue-router": "^4.2.5",
+    "vue-scrollto": "^2.20.0",
+    "vue3-application-insights": "^1.0.2",
+    "vue3-toastify": "^0.2.1",
+    "vuetify": "^3.5.3",
+    "vuex": "^4.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/eslint-parser": "^7.23.3",
+    "@babel/plugin-proposal-optional-chaining": "^7.21.0",
+    "@babel/preset-env": "^7.23.8",
+    "@mdi/font": "^7.4.47",
+    "@microsoft/signalr": "^8.0.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "@vue/compiler-dom": "^3.4.15",
+    "@vue/compiler-sfc": "^3.4.15",
+    "eslint": "^8.56.0",
+    "eslint-plugin-vue": "^9.19.2",
+    "eslint-plugin-vuetify": "^2.1.1",
+    "font-awesome": "^4.7.0",
+    "mini-css-extract-plugin": "^2.7.6",
+    "prettier": "^3.2.5",
+    "sass": "^1.69.7",
+    "stylus": "^0.62.0",
+    "stylus-loader": "^7.1.3",
+    "vue-cli-plugin-axios": "^0.0.4",
+    "vue-cli-plugin-vuetify": "^2.5.8",
+    "webpack-hot-middleware": "^2.26.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended",
+      "@vue/prettier",
+      "plugin:vuetify/base"
+    ],
+    "rules": {
+      "eqeqeq": [
+        "error",
+        "always",
+        {
+          "null": "ignore"
+        }
+      ]
+    },
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    }
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "printWidth": 130
+  },
+  "postcssOptions": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie <= 11"
+  ]
+}
